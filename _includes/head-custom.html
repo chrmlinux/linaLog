@@ -1,3 +1,4 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js"></script>
 <link rel="alternate" type="application/rss+xml" title="linaLog RSS" href="/linaLog/feed.xml">
 <style>
 header { display: none; }
@@ -78,6 +79,9 @@ document.addEventListener('DOMContentLoaded', function () {
   cursor: pointer;
 }
 .share-btn:hover { background: #b5e853; color: #151515; text-decoration: none; }
+.share-qr { margin-top: 10px; }
+.share-qr-label { color: #b5e853; font-size: 12px; margin-bottom: 4px; }
+.share-qr svg { background: #fff; padding: 4px; }
 </style>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
@@ -112,6 +116,17 @@ document.addEventListener('DOMContentLoaded', function () {
   rss.href = '/' + location.pathname.split('/').filter(Boolean)[0] + '/feed.xml';
   rss.textContent = 'RSS';
   bar.appendChild(rss);
+  if (window.qrcode) {
+    try {
+      var qr = qrcode(0, 'M');
+      qr.addData(url);
+      qr.make();
+      var box = document.createElement('div');
+      box.className = 'share-qr';
+      box.innerHTML = '<div class="share-qr-label">QRコード（このページ）</div>' + qr.createSvgTag({ cellSize: 2, margin: 4, scalable: false });
+      bar.appendChild(box);
+    } catch (e) {}
+  }
   main.appendChild(bar);
 });
 </script>
