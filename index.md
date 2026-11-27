@@ -29,6 +29,19 @@ Project write-ups, in Markdown.
   margin-bottom: 10px;
 }
 #sortBtn:hover { background: #b5e853; color: #151515; }
+#pager { margin-top: 12px; }
+.pager-btn {
+  background: #151515;
+  color: #b5e853;
+  border: 1px solid #b5e853;
+  padding: 4px 10px;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", monospace;
+  font-size: 13px;
+  cursor: pointer;
+  margin-right: 6px;
+}
+.pager-btn:hover { background: #b5e853; color: #151515; }
+.pager-btn.current { background: #b5e853; color: #151515; }
 .thumb {
   width: 78px;
   height: 44px;
@@ -117,11 +130,35 @@ Project write-ups, in Markdown.
   <li data-date="2022-06-20 16:12"><img class="thumb" src="m5stack-setup1loop1/images/img01.jpg" alt="">2022-06-20 16:12 ― <a href="m5stack-setup1loop1/">RP2040のsetup1/loop1が素敵なので M5Stack/ESP32 にも実装してみたよっ</a></li>
 </ul>
 
+<div id="pager"></div>
+
 <script>
 (function () {
   var list = document.getElementById('articleList');
   var btn = document.getElementById('sortBtn');
+  var pager = document.getElementById('pager');
   var desc = true;
+  var page = 1;
+  var PER = 20;
+  function showPage() {
+    var items = Array.prototype.slice.call(list.querySelectorAll('li'));
+    var pages = Math.max(1, Math.ceil(items.length / PER));
+    if (page > pages) page = pages;
+    items.forEach(function (li, i) {
+      li.style.display = (i >= (page - 1) * PER && i < page * PER) ? '' : 'none';
+    });
+    pager.innerHTML = '';
+    for (var n = 1; n <= pages; n++) {
+      (function (n) {
+        var b = document.createElement('button');
+        b.type = 'button';
+        b.className = 'pager-btn' + (n === page ? ' current' : '');
+        b.textContent = n;
+        b.addEventListener('click', function () { page = n; showPage(); });
+        pager.appendChild(b);
+      })(n);
+    }
+  }
   function apply() {
     var items = Array.prototype.slice.call(list.querySelectorAll('li'));
     items.sort(function (a, b) {
@@ -131,7 +168,10 @@ Project write-ups, in Markdown.
     });
     items.forEach(function (li) { list.appendChild(li); });
     btn.textContent = desc ? '古い順に並べ替える' : '新しい順に並べ替える';
+    page = 1;
+    showPage();
   }
   btn.addEventListener('click', function () { desc = !desc; apply(); });
+  showPage();
 })();
 </script>
