@@ -21,7 +21,7 @@ Project write-ups, in Markdown.
 ## 記事 / Articles
 
 <style>
-#sortBtn {
+#sortBtn, #tagToggle {
   background: #151515;
   color: #b5e853;
   border: 1px solid #b5e853;
@@ -31,7 +31,7 @@ Project write-ups, in Markdown.
   cursor: pointer;
   margin-bottom: 10px;
 }
-#sortBtn:hover { background: #b5e853; color: #151515; }
+#sortBtn:hover, #tagToggle:hover { background: #b5e853; color: #151515; }
 #pager { margin-top: 12px; }
 .pager-btn {
   background: #151515;
@@ -53,6 +53,8 @@ Project write-ups, in Markdown.
 #articleList .tag { display: inline-block; border: 1px solid #666; color: #aaa; padding: 0 7px; margin-left: 6px; font-size: 11px; border-radius: 9px; text-decoration: none; }
 #articleList .tag:hover { border-color: #b5e853; color: #b5e853; }
 #resultInfo { color: #aaa; font-size: 13px; }
+body.tags-off #tagBar { display: none; }
+body.tags-off #articleList .tags { display: none; }
 .thumb {
   width: 78px;
   height: 44px;
@@ -64,7 +66,7 @@ Project write-ups, in Markdown.
 
 <p><input id="searchBox" type="search" placeholder="検索（タイトル・タグ・日付）" aria-label="記事を検索"></p>
 <div id="tagBar"></div>
-<p><button id="sortBtn" type="button">古い順に並べ替える</button></p>
+<p><button id="sortBtn" type="button">古い順に並べ替える</button> <button id="tagToggle" type="button">タグを隠す</button></p>
 <p id="resultInfo"></p>
 
 <ul id="articleList">
@@ -242,6 +244,19 @@ Project write-ups, in Markdown.
     render();
   });
   searchBox.addEventListener('input', function () { curQ = searchBox.value; page = 1; render(); });
+  var tagToggle = document.getElementById('tagToggle');
+  function applyTagVis() {
+    var off = false;
+    try { off = localStorage.getItem('linalog-tags-off') === '1'; } catch (e) {}
+    document.body.className = off ? (document.body.className + ' tags-off') : document.body.className.replace(/\s*tags-off/g, '');
+    tagToggle.textContent = off ? 'タグを表示' : 'タグを隠す';
+  }
+  tagToggle.addEventListener('click', function () {
+    var off = document.body.className.indexOf('tags-off') >= 0;
+    try { localStorage.setItem('linalog-tags-off', off ? '0' : '1'); } catch (e) {}
+    applyTagVis();
+  });
+  applyTagVis();
   render();
 })();
 </script>
