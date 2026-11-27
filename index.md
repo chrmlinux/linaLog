@@ -33,7 +33,6 @@ Project write-ups, in Markdown.
   object-fit: cover;
   vertical-align: middle;
   margin-right: 10px;
-  border: 1px solid #b5e853;
 }
 </style>
 
