@@ -552,22 +552,22 @@ function expandCode(event) {
 
 ## 関連コンテンツ
 
-・[liveOS liveC](https://elchika.com/article/b4e1e0f3-5044-46c0-acd8-899735e12ec4/)
+・[liveOS liveC](../livec/)
 
-・[liveOS エディタ編](https://elchika.com/article/01717490-251c-4edf-8baf-d6957eb59c84/)
+・[liveOS エディタ編](../livec-editor/)
 
-・[liveOS ch9350編](https://elchika.com/article/bb6690e3-5f79-46b9-9365-c44652c4fe31/)
+・[liveOS ch9350編](../livec-ch9350/)
 
-・[liveOS LiveB/LiveP](https://elchika.com/article/d3597a49-cd38-4c91-9aea-a5441b0be2b6/)
+・[liveOS LiveB/LiveP](../liveb-livep/)
 
-・[liveOS LiveCO](https://elchika.com/article/580bf544-bf7b-48d3-b36e-4143c13ac1f8/)
+・[liveOS LiveCO](../liveco/)
 
-・[liveOS LiveFO](https://elchika.com/article/831f9d55-fa82-4460-b5e7-d978f21e13c9/)
+・[liveOS LiveFO](../livefo/)
 
-・[liveOS LinDOS](https://elchika.com/article/2ed7a532-7b75-4d49-991c-986aac7c614c/)
+・[liveOS LinDOS](../lindos/)
 
-・[liveOS linaX](https://elchika.com/article/d9e5a3d8-984e-4ca6-9bfa-780411ca9243/)
+・[liveOS linaX](../spresense-linax/)
 
-・[liveOS porting m5](https://elchika.com/article/6e66fc48-daf9-4017-9e5f-cf50534abdb8/) ←いまここ
+・[liveOS porting m5](../spresense-linax-port/) ←いまここ
 
 *このプロジェクトはArduinoフレームワーク上で開発しています。ボードはVicharak Shrike-Lite (RP2040) / Sony Spresense / cyd / m5tab5 / m5sticks3 5機種に対応。*

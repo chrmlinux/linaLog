@@ -24,7 +24,7 @@ B-Stem4CM01Display基板はとっても良い基板なんだけれど
 
 タッチパネルまでの配線がされていないのね
 
-ここ参照 => [B-Stem4CM01Display にタッチパネルの改造を行うよ](https://elchika.com/article/9fc5216b-1dab-4c65-ad8b-43f5f7943a7e/)
+ここ参照 => [B-Stem4CM01Display にタッチパネルの改造を行うよ](../spresense-bstem-touch/)
 
 に従って改造をします。あ、簡単な半田付けだから大丈夫。
 
@@ -32,7 +32,7 @@ B-Stem4CM01Display基板はとっても良い基板なんだけれど
 
 抵抗被膜方式やら 静電容量方式に関しては
 
-ここ参照 => [LCD液晶基板ili9341でタッチパネルを使うよっ](https://elchika.com/article/eff30d7f-9fac-433e-8863-6dd54206a0fe/)
+ここ参照 => [LCD液晶基板ili9341でタッチパネルを使うよっ](../spresense-ili9341-touch/)
 
 **タッチパネル関数や描画関数のライブラリ**
 
