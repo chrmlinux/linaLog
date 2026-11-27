@@ -10,4 +10,4 @@ Project write-ups, in Markdown.
 
 ## 記事 / Articles
 
-- [linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS](linax_uno.md)
+- 2026-11-26 ― [linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS](linax_uno.md)
