@@ -66,7 +66,8 @@ body.tags-off #articleList .tags { display: none; }
 
 <p><input id="searchBox" type="search" placeholder="検索（タイトル・タグ・日付）" aria-label="記事を検索"></p>
 <div id="tagBar"></div>
-<p><button id="sortBtn" type="button">古い順に並べ替える</button> <button id="tagToggle" type="button">タグを隠す</button></p>
+<script>try { if (localStorage.getItem('linalog-tags-on') !== '1') document.body.classList.add('tags-off'); } catch (e) { document.body.classList.add('tags-off'); }</script>
+<p><button id="sortBtn" type="button">古い順に並べ替える</button> <button id="tagToggle" type="button">タグを表示</button></p>
 <p id="resultInfo"></p>
 
 <ul id="articleList">
@@ -246,14 +247,14 @@ body.tags-off #articleList .tags { display: none; }
   searchBox.addEventListener('input', function () { curQ = searchBox.value; page = 1; render(); });
   var tagToggle = document.getElementById('tagToggle');
   function applyTagVis() {
-    var off = false;
-    try { off = localStorage.getItem('linalog-tags-off') === '1'; } catch (e) {}
-    document.body.className = off ? (document.body.className + ' tags-off') : document.body.className.replace(/\s*tags-off/g, '');
-    tagToggle.textContent = off ? 'タグを表示' : 'タグを隠す';
+    var on = false;
+    try { on = localStorage.getItem('linalog-tags-on') === '1'; } catch (e) {}
+    document.body.classList.toggle('tags-off', !on);
+    tagToggle.textContent = on ? 'タグを隠す' : 'タグを表示';
   }
   tagToggle.addEventListener('click', function () {
-    var off = document.body.className.indexOf('tags-off') >= 0;
-    try { localStorage.setItem('linalog-tags-off', off ? '0' : '1'); } catch (e) {}
+    var willShow = document.body.classList.contains('tags-off');
+    try { localStorage.setItem('linalog-tags-on', willShow ? '1' : '0'); } catch (e) {}
     applyTagVis();
   });
   applyTagVis();
