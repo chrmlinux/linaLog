@@ -118,12 +118,12 @@ document.addEventListener('DOMContentLoaded', function () {
   bar.appendChild(rss);
   if (window.qrcode) {
     try {
-      var qr = qrcode(0, 'M');
+      var qr = qrcode(0, 'L');
       qr.addData(url);
       qr.make();
       var box = document.createElement('div');
       box.className = 'share-qr';
-      box.innerHTML = '<div class="share-qr-label">QRコード（このページ）</div>' + qr.createSvgTag({ cellSize: 2, margin: 4, scalable: false });
+      box.innerHTML = '<div class="share-qr-label">QRコード（このページ）</div>' + qr.createSvgTag({ cellSize: 4, margin: 4, scalable: false });
       bar.appendChild(box);
     } catch (e) {}
   }
