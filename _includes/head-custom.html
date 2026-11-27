@@ -1,3 +1,4 @@
+<link rel="alternate" type="application/rss+xml" title="linaLog RSS" href="/linaLog/feed.xml">
 <style>
 .code-wrap { position: relative; }
 .copy-btn {
@@ -105,6 +106,11 @@ document.addEventListener('DOMContentLoaded', function () {
     a.textContent = pair[0];
     bar.appendChild(a);
   });
+  var rss = document.createElement('a');
+  rss.className = 'share-btn';
+  rss.href = '/' + location.pathname.split('/').filter(Boolean)[0] + '/feed.xml';
+  rss.textContent = 'RSS';
+  bar.appendChild(rss);
   main.appendChild(bar);
 });
 </script>

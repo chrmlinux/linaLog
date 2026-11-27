@@ -13,6 +13,8 @@ title: linaLog
 
 Project write-ups, in Markdown.
 
+<p><a href="feed.xml">RSS フィード</a></p>
+
 ## 記事 / Articles
 
 <style>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>linaLog</title>
+<link>https://chrmlinux.github.io/linaLog/</link>
+<atom:link href="https://chrmlinux.github.io/linaLog/feed.xml" rel="self" type="application/rss+xml"/>
+<description>製作記事 / Project write-ups</description>
+<language>ja</language>
+<item>
+<title>linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS</title>
+<link>https://chrmlinux.github.io/linaLog/linax-uno/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/linax-uno/</guid>
+<pubDate>Thu, 26 Nov 2026 20:17:00 +0900</pubDate>
+<description>linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS</description>
+</item>
+<item>
+<title>[Junction] Windows の C ドライブを空ける話 [目から鱗]</title>
+<link>https://chrmlinux.github.io/linaLog/windows-disk/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/windows-disk/</guid>
+<pubDate>Mon, 23 Nov 2026 13:54:00 +0900</pubDate>
+<description>[Junction] Windows の C ドライブを空ける話 [目から鱗]</description>
+</item>
+<item>
+<title>LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11</title>
+<link>https://chrmlinux.github.io/linaLog/linax-cyd/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/linax-cyd/</guid>
+<pubDate>Sat, 21 Nov 2026 21:41:00 +0900</pubDate>
+<description>LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11</description>
+</item>
+<item>
+<title>[cyd] $7の液晶付きマイコンに x11 を載せてみた[3分ハッキング別冊]</title>
+<link>https://chrmlinux.github.io/linaLog/tinyx11-cyd/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/tinyx11-cyd/</guid>
+<pubDate>Thu, 19 Nov 2026 10:46:00 +0900</pubDate>
+<description>[cyd] $7の液晶付きマイコンに x11 を載せてみた[3分ハッキング別冊]</description>
+</item>
+<item>
+<title>[#SPRESENSE 2026]最終奥義OS作ってみたにょ[linaX]</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-linax/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-linax/</guid>
+<pubDate>Tue, 08 Sep 2026 19:25:00 +0900</pubDate>
+<description>[#SPRESENSE 2026]最終奥義OS作ってみたにょ[linaX]</description>
+</item>
+<item>
+<title>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveB/LiveP編]</title>
+<link>https://chrmlinux.github.io/linaLog/liveb-livep/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/liveb-livep/</guid>
+<pubDate>Mon, 31 Aug 2026 16:56:00 +0900</pubDate>
+<description>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveB/LiveP編]</description>
+</item>
+<item>
+<title>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveC編]</title>
+<link>https://chrmlinux.github.io/linaLog/livec/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/livec/</guid>
+<pubDate>Wed, 26 Aug 2026 11:44:00 +0900</pubDate>
+<description>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveC編]</description>
+</item>
+<item>
+<title>【SPRESENSE2024】仮想30コアでマンデルブロ集合【リアルタイム描画】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-mandelbrot/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-mandelbrot/</guid>
+<pubDate>Tue, 28 Jan 2025 23:13:00 +0900</pubDate>
+<description>【SPRESENSE2024】仮想30コアでマンデルブロ集合【リアルタイム描画】</description>
+</item>
+</channel>
+</rss>
