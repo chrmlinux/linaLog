@@ -1,6 +1,6 @@
 # linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS
 
-2026年11月26日
+2026年11月26日 20:17
 
 ## 概要
 
