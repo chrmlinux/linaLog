@@ -32,8 +32,8 @@ Project write-ups, in Markdown.
 <p><button id="sortBtn" type="button">古い順に並べ替える</button></p>
 
 <ul id="articleList">
-  <li data-date="2026-11-26 20:17">2026-11-26 20:17 ― <a href="linax_uno.html">linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS</a></li>
-  <li data-date="2026-11-21 21:41">2026-11-21 21:41 ― <a href="linax_cyd.html">LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11</a></li>
+  <li data-date="2026-11-26 20:17">2026-11-26 20:17 ― <a href="linax-uno/">linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS</a></li>
+  <li data-date="2026-11-21 21:41">2026-11-21 21:41 ― <a href="linax-cyd/">LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11</a></li>
 </ul>
 
 <script>
