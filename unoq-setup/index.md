@@ -34,8 +34,8 @@ Arduino UNO Q　初期化覚え書きです
 ```
 - 書き込み完了後、USB を抜き、**ジャンパーを外し**再接続。
 
-==注意 ジャンパーなしでは書き込みが拒否される。
-参考ドキュメント：https://docs.arduino.cc/tutorials/uno-q/update-image==
+<mark>注意 ジャンパーなしでは書き込みが拒否される。
+参考ドキュメント：https://docs.arduino.cc/tutorials/uno-q/update-image</mark>
 
 # ADB 接続
 PC に ADB をインストール
