@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-linax/images/img01.jpg
 # [#SPRESENSE 2026]最終奥義OS作ってみたにょ[linaX]
 
 2026年9月8日 19:25
+<p class="article-tags">タグ: <a href="..?tag=Arduino">Arduino</a> <a href="..?tag=LIVEC">LIVEC</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=VM">VM</a> <a href="..?tag=linux">linux</a> <a href="..?tag=%E8%87%AA%E4%BD%9COS">自作OS</a></p>
 
 ![](images/img01.jpg)
 

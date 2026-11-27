@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/cyd-linux611/images/img01.png
 # [CYD]内蔵 DRAM 320KB で Linux6.11を動かしたにょ
 
 2026年11月21日 14:52
+<p class="article-tags">タグ: <a href="..?tag=CYD">CYD</a> <a href="..?tag=ESP32">ESP32</a> <a href="..?tag=LinaX">LinaX</a> <a href="..?tag=linux">linux</a></p>
 
 ![](images/img01.png)
 

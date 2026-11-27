@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/linaaudio-2/images/img01.png
 # 【linaAudio】45円CPUで作るUSB-Audioだにょ②【動作編】
 
 2026年6月5日 10:50
+<p class="article-tags">タグ: <a href="..?tag=CH552E">CH552E</a> <a href="..?tag=CH552G">CH552G</a> <a href="..?tag=MSOP10">MSOP10</a> <a href="..?tag=SOP10">SOP10</a> <a href="..?tag=USB-Audio">USB-Audio</a> <a href="..?tag=linaAudio">linaAudio</a></p>
 
 ![](images/img01.png)
 

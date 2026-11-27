@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/irfi/images/img01.png
 # 【IRFi】え？IRDAでWiFi?【無線光通信】
 
 2026年5月20日 13:58
+<p class="article-tags">タグ: <a href="..?tag=IRFi">IRFi</a> <a href="..?tag=WiFi">WiFi</a></p>
 
 ![](images/img01.png)
 

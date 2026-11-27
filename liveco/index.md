@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/liveco/images/img01.jpg
 # [#SPRESENSE 2026] COBOLインタプリタ(VM)を作ったにょ [LiveCO編]
 
 2026年9月2日 13:20
+<p class="article-tags">タグ: <a href="..?tag=Arduino">Arduino</a> <a href="..?tag=COBOL">COBOL</a> <a href="..?tag=LIVECO">LIVECO</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=VM">VM</a> <a href="..?tag=%E8%87%AA%E4%BD%9COS">自作OS</a></p>
 
 ![](images/img01.jpg)
 

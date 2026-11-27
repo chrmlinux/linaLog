@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-matrix-speaker/images/img01
 # 【SPRESENSE2024】3Dプリンターで長岡式マトリクススピーカー【夢のオーディオ体験】
 
 2025年1月30日 17:09
+<p class="article-tags">タグ: <a href="..?tag=3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF">3Dプリンタ</a> <a href="..?tag=Arduino">Arduino</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=mp3">mp3</a> <a href="..?tag=%E9%95%B7%E5%B2%A1%E5%BC%8F">長岡式</a></p>
 
 ![](images/img01.jpg)
 

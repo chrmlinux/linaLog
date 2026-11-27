@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-ili9341-touch/images/img01.
 # 【SPRESENSE2023】LCD液晶基板ili9341でタッチパネルを使うよっ
 
 2024年1月26日 09:44
+<p class="article-tags">タグ: <a href="..?tag=Module">Module</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=%E3%82%BF%E3%83%83%E3%83%81%E3%83%91%E3%83%8D%E3%83%AB">タッチパネル</a></p>
 
 ![](images/img01.png)
 

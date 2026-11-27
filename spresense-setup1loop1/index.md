@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-setup1loop1/images/img01.jp
 # RP2040のsetup1/loop1が素敵なので SPRESENSE にも実装してみたよっ
 
 2023年12月1日 16:06
+<p class="article-tags">タグ: <a href="..?tag=Arduino">Arduino</a> <a href="..?tag=Library">Library</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=multicore">multicore</a> <a href="..?tag=thread">thread</a></p>
 
 ![](images/img01.jpg)
 

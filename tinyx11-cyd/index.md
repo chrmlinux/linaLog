@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/tinyx11-cyd/images/img01.jpg
 # [cyd] $7の液晶付きマイコンに x11 を載せてみた[3分ハッキング別冊]
 
 2026年11月19日 10:46
+<p class="article-tags">タグ: <a href="..?tag=CYD">CYD</a> <a href="..?tag=ESP32">ESP32</a> <a href="..?tag=x11">x11</a></p>
 
 ![](images/img01.jpg)
 

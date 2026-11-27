@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/assets/rina-chan.png
 # linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS
 
 2026年11月26日 20:17
+<p class="article-tags">タグ: <a href="..?tag=linux">linux</a> <a href="..?tag=Arduino">Arduino</a> <a href="..?tag=Unix">Unix</a></p>
 
 <p><img src="../assets/rina-chan.png" alt="リナちゃん" width="240"></p>
 

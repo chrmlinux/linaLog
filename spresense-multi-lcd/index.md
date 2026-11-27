@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-multi-lcd/images/img01.jpg
 # 【SPRESENSE】複数LCD制御のためのSpresenseとLovyanGFXに関する実験的研究
 
 2024年10月31日 13:30
+<p class="article-tags">タグ: <a href="..?tag=LCD">LCD</a> <a href="..?tag=LovyanGFX">LovyanGFX</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=ST7735S">ST7735S</a></p>
 
 ![](images/img01.jpg)
 

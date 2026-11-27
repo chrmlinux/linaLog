@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-sprepad/images/img01.png
 # 【SPRESENSE2025】VGA液晶を搭載しGPS地図を表示したにょ【sprePAD?】
 
 2026年1月28日 01:47
+<p class="article-tags">タグ: <a href="..?tag=GNSS">GNSS</a> <a href="..?tag=GPS">GPS</a> <a href="..?tag=SD%E3%82%AB%E3%83%BC%E3%83%89">SDカード</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=VGA">VGA</a> <a href="..?tag=WiFi">WiFi</a></p>
 
 ![](images/img01.png)
 

@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-dsp-riron/images/img01.jpg
 # SPRESENSE の DSPを微妙にHackするよっ【理論編】
 
 2023年12月14日 19:51
+<p class="article-tags">タグ: <a href="..?tag=Arduino">Arduino</a> <a href="..?tag=Audio">Audio</a> <a href="..?tag=DSP">DSP</a> <a href="..?tag=simpleFIFO">simpleFIFO</a> <a href="..?tag=spresense">spresense</a></p>
 
 ![](images/img01.jpg)
 

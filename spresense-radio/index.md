@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-radio/images/img01.png
 # 【SPRESENSE2025】spresense拡張基板に搭載できるラジオモジュールを作ったよっ
 
 2026年1月9日 16:25
+<p class="article-tags">タグ: <a href="..?tag=I2C">I2C</a> <a href="..?tag=RDA5807">RDA5807</a> <a href="..?tag=SPRESENSE">SPRESENSE</a></p>
 
 ![](images/img01.png)
 

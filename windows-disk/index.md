@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/assets/rina-chan.png
 # [Junction] Windows の C ドライブを空ける話 [目から鱗]
 
 2026年11月23日 13:54
+<p class="article-tags">タグ: <a href="..?tag=Junction">Junction</a> <a href="..?tag=Windows11">Windows11</a></p>
 
 <p><img src="../assets/rina-chan.png" alt="リナちゃん" width="240"></p>
 

@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-nihongo/images/img01.jpg
 # [#SPRESENSE 2026]簡単だけど奥が深いにょ[日本語入力]
 
 2026年9月19日 13:51
+<p class="article-tags">タグ: <a href="..?tag=FEP">FEP</a> <a href="..?tag=IME">IME</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B">日本語入力</a> <a href="..?tag=%E8%87%AA%E4%BD%9COS">自作OS</a></p>
 
 ![](images/img01.jpg)
 

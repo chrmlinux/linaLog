@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-mp3-cub/images/img01.jpg
 # 【SPRESENSE2024】mp3綺麗に鳴らす【CuB】
 
 2024年12月23日 16:19
+<p class="article-tags">タグ: <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=mp3">mp3</a> <a href="..?tag=%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC">スピーカー</a> <a href="..?tag=%E3%83%91%E3%83%83%E3%82%B7%E3%83%96%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF">パッシブジェネレータ</a> <a href="..?tag=%E8%87%AA%E4%BD%9C%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA">自作オーディオ</a></p>
 
 ![](images/img01.jpg)
 

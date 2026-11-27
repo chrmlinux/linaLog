@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/assets/rina-chan.png
 # linaLog にアクセスカウンターと「いいね」を付けた件
 
 2026年11月27日 15:31
+<p class="article-tags">タグ: <a href="..?tag=GitHub">GitHub</a> <a href="..?tag=%E3%83%96%E3%83%AD%E3%82%B0">ブログ</a></p>
 
 <p><img src="../assets/rina-chan.png" alt="リナちゃん" width="240"></p>
 

@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-module/images/img01.jpg
 # 【SPRESENSE2023】組込用のSPRESENSEモジュールを作ったよ
 
 2024年1月26日 09:34
+<p class="article-tags">タグ: <a href="..?tag=Module">Module</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=WS2812B">WS2812B</a> <a href="..?tag=%E7%B5%84%E8%BE%BC%E3%81%BF">組込み</a></p>
 
 ![](images/img01.jpg)
 

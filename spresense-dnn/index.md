@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-dnn/images/img01.jpg
 # 【SPRESENSE2025】dnnPlathomeを作ったょ【YOLOっぽい】
 
 2026年1月20日 18:59
+<p class="article-tags">タグ: <a href="..?tag=NNC">NNC</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=YOLO">YOLO</a> <a href="..?tag=dnnRt">dnnRt</a> <a href="..?tag=%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88">ロボット</a> <a href="..?tag=%E8%BF%BD%E5%BE%93%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3">追従エンジン</a></p>
 
 ![](images/img01.jpg)
 

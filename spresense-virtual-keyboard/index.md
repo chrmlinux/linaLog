@@ -6,6 +6,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-virtual-keyboard/images/img
 # 【SPRESENSE2023】タッチパネルにバーチャルキーボードを載せたよっ
 
 2024年1月26日 09:40
+<p class="article-tags">タグ: <a href="..?tag=Module">Module</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89">キーボード</a> <a href="..?tag=%E3%82%BF%E3%83%83%E3%83%81%E3%83%91%E3%83%8D%E3%83%AB">タッチパネル</a></p>
 
 ![](images/img01.jpg)
 

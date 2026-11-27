@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-soundserenity/images/img01.
 # 【SPRESENSE2023】SoundSerenityを作ったよっ【環境音を8Trackで】
 
 2024年1月26日 09:52
+<p class="article-tags">タグ: <a href="..?tag=Audio">Audio</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=%E6%94%B9%E9%80%A0">改造</a> <a href="..?tag=%E7%92%B0%E5%A2%83%E9%9F%B3">環境音</a></p>
 
 ![](images/img01.jpg)
 

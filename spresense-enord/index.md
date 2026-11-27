@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-enord/images/img01.png
 # 【SPRESENSE2024】esp32とSpresenseによるモデム機能制御"eNord"の構築
 
 2024年12月12日 13:14
+<p class="article-tags">タグ: <a href="..?tag=ESP32">ESP32</a> <a href="..?tag=ESPNOW">ESPNOW</a> <a href="..?tag=I2C">I2C</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=Wire">Wire</a> <a href="..?tag=eNord">eNord</a></p>
 
 ![](images/img01.png)
 

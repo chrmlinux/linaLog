@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/ch32v003-cardputer-lcd/images/img01.j
 # [ch32v003]ほぼどんなマイコンでも液晶付けられるにょ[cardputer]
 
 2026年9月16日 11:06
+<p class="article-tags">タグ: <a href="..?tag=CH32V003">CH32V003</a> <a href="..?tag=I2C">I2C</a> <a href="..?tag=ILI9341">ILI9341</a> <a href="..?tag=SPI">SPI</a> <a href="..?tag=cardputer">cardputer</a> <a href="..?tag=sop8">sop8</a></p>
 
 ![](images/img01.jpg)
 

@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/linagostini-1/images/img01.png
 # 【リナゴスティーニ①創刊号】64bitI2Cクラスタを27円RISC-Vで作るにょ【思想】
 
 2026年4月8日 11:21
+<p class="article-tags">タグ: <a href="..?tag=64bit">64bit</a> <a href="..?tag=CH32V003">CH32V003</a> <a href="..?tag=RISC-V">RISC-V</a> <a href="..?tag=%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF">クラスタ</a> <a href="..?tag=%E3%83%AA%E3%83%8A%E3%82%B4%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8B">リナゴスティーニ</a></p>
 
 ![](images/img01.png)
 

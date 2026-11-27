@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-audiojack-hack/images/img01
 # [SPRESENSE 2026]AudioJackをHackしたにょ[CVBS]
 
 2026年6月15日 16:52
+<p class="article-tags">タグ: <a href="..?tag=Audio">Audio</a> <a href="..?tag=CVBS">CVBS</a> <a href="..?tag=HIRES">HIRES</a> <a href="..?tag=SPRESENSE">SPRESENSE</a></p>
 
 ![](images/img01.png)
 

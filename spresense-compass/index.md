@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-compass/images/img01.jpg
 # 【SPRESENSE2024】今年の恵方巻きの方向は？【サテライトコンパス】
 
 2025年1月29日 16:24
+<p class="article-tags">タグ: <a href="..?tag=GNSS">GNSS</a> <a href="..?tag=LoRa">LoRa</a> <a href="..?tag=SPRESENSE">SPRESENSE</a></p>
 
 ![](images/img01.jpg)
 

@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-mandelbrot/images/img01.jpg
 # 【SPRESENSE2024】仮想30コアでマンデルブロ集合【リアルタイム描画】
 
 2025年1月28日 23:13
+<p class="article-tags">タグ: <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=%E3%82%BF%E3%83%83%E3%83%81%E3%83%91%E3%83%8D%E3%83%AB">タッチパネル</a> <a href="..?tag=%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B3%E3%82%A2">マルチコア</a> <a href="..?tag=%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89">マルチスレッド</a> <a href="..?tag=%E3%83%9E%E3%83%B3%E3%83%87%E3%83%AB%E3%83%96%E3%83%AD%E9%9B%86%E5%90%88">マンデルブロ集合</a> <a href="..?tag=%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0">リアルタイム</a></p>
 
 ![](images/img01.jpg)
 

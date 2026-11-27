@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-tinymixer/images/img01.jpg
 # 【SPRESENSE2023】tinyMixer【簡易ミキサー】
 
 2024年1月26日 09:45
+<p class="article-tags">タグ: <a href="..?tag=Mixer">Mixer</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=fader">fader</a></p>
 
 ![](images/img01.jpg)
 

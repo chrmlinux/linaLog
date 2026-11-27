@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/linaduino/images/img01.png
 # 【linaDuino】リナディーノ(てじなーにゃのアクセントで)【世界最小Arduino互換】
 
 2026年5月7日 14:09
+<p class="article-tags">タグ: <a href="..?tag=CH32V003">CH32V003</a> <a href="..?tag=j4m6">j4m6</a> <a href="..?tag=linaduino">linaduino</a> <a href="..?tag=sop8">sop8</a></p>
 
 ![](images/img01.png)
 

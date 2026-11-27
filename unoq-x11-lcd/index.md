@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/unoq-x11-lcd/images/img01.png
 # 【unoQ】QRB側X11をSTM32のLCDに表示出来たにょ【小さなLinux機】
 
 2026年2月11日 16:00
+<p class="article-tags">タグ: <a href="..?tag=Arduino">Arduino</a> <a href="..?tag=linux">linux</a> <a href="..?tag=unoQ">unoQ</a></p>
 
 ![](images/img01.png)
 

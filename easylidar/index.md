@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/easylidar/images/img01.jpg
 # Spresensを使って自律移動出来るよっ(easyLiDARの製作と運用)
 
 2022年9月15日 14:30
+<p class="article-tags">タグ: <a href="..?tag=IMU">IMU</a> <a href="..?tag=M5Atom">M5Atom</a> <a href="..?tag=SLAM">SLAM</a> <a href="..?tag=easyLiDAR">easyLiDAR</a> <a href="..?tag=spresense">spresense</a></p>
 
 ![](images/img01.jpg)
 

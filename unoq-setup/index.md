@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/unoq-setup/images/img01.jpg
 # 【unoQ】Arduino UNO Q 簡単初期セットアップ手順【小さなLinux機】
 
 2026年2月6日 10:54
+<p class="article-tags">タグ: <a href="..?tag=Arduino">Arduino</a> <a href="..?tag=linux">linux</a> <a href="..?tag=unoQ">unoQ</a></p>
 
 ![](images/img01.jpg)
 

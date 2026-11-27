@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-camera-lcd/images/img01.png
 # 【SPRESENSE】液晶にカメラ画像の動画再生に成功したよっ
 
 2024年2月6日 21:29
+<p class="article-tags">タグ: <a href="..?tag=CAMERA">CAMERA</a> <a href="..?tag=SPRESENSE">SPRESENSE</a> <a href="..?tag=%E3%83%91%E3%83%A9%E3%83%91%E3%83%A9%E6%BC%AB%E7%94%BB">パラパラ漫画</a> <a href="..?tag=%E5%86%99%E7%9C%9F">写真</a> <a href="..?tag=%E5%8B%95%E7%94%BB">動画</a></p>
 
 ![](images/img01.png)
 

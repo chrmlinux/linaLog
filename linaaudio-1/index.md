@@ -5,6 +5,7 @@ image: https://chrmlinux.github.io/linaLog/linaaudio-1/images/img01.png
 # 【linaAudio】25円CPUで作るUSB-Audioだにょ①【認識編】
 
 2026年5月27日 10:18
+<p class="article-tags">タグ: <a href="..?tag=CH32V003">CH32V003</a> <a href="..?tag=USB-Audio">USB-Audio</a> <a href="..?tag=linaAudio">linaAudio</a> <a href="..?tag=linaduino">linaduino</a> <a href="..?tag=sop8">sop8</a></p>
 
 ![](images/img01.png)
 
