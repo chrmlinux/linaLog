@@ -1,6 +1,6 @@
 # [#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveB/LiveP編]
 
-2026年8月31日
+2026年8月31日 16:56
 
 ![](images/img01.jpg)
 
