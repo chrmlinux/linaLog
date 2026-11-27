@@ -43,4 +43,4 @@ loopが動いてないのはthreadが立ってないから💦
 よろしくお願い申し上げます
 ※ごめんちょっと直した٩(ˊᗜˋ*)و
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="simple" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="lorae220-fix"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="lorae220-fix"></div></div>

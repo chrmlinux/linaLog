@@ -143,4 +143,4 @@ void loop() {
 2. ESP32-S3技術仕様: https://www.espressif.com/en/products/socs/esp32-s3
 3. ESP-NOWの技術仕様と実装方法: https://www.espressif.com/en/products/software/esp-now
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="simple" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-enord"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-enord"></div></div>

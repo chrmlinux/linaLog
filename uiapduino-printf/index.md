@@ -157,4 +157,4 @@ while(1) {
 - [YuukiUmeta-UIAP/rv003usb](https://github.com/YuukiUmeta-UIAP/rv003usb)
 - [UIAPduino公式サイト](https://www.uiap.jp/en/uiapduino/pro-micro/ch32v003/v1.4)
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="simple" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="uiapduino-printf"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="uiapduino-printf"></div></div>

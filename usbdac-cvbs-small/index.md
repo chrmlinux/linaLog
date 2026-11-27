@@ -56,4 +56,4 @@ Spresense の Hi-Res AudioPlayer を用いた再生だけでなく、本プロ�
 
 詳細は ☞ [hackaday.io](https://hackaday.io/project/205934-spresense-audio-jack-as-ntsc-video-output)
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="simple" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="usbdac-cvbs-small"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="usbdac-cvbs-small"></div></div>
