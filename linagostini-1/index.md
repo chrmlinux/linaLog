@@ -65,6 +65,7 @@ typedef struct __attribute__((packed)) {
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2041693622228365487"></a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 | 次号予告 |
 | --- |
 | 第2号：ハッシュの衝突を数学で殴る<br>同じ住所を名乗ってしまったノードたちを、マスターがどのようにして「引き剥がし」、整列させるのか。そのアルゴリズムの深淵に迫る。 |
