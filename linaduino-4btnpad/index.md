@@ -131,4 +131,4 @@ void usb_handle_user_in_request(
 うわ～　ちょっとハマりどころ満載だけど
 USB機器が作れる #linaDuinoは凄いね
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="linaduino-4btnpad"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="simple" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="linaduino-4btnpad"></div></div>

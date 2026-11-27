@@ -173,4 +173,4 @@ PWM 出力にはノイズが含まれるため、LPF を追加すると音質が
 | 0.1uF | スピーカー(+) のノードから GND へ |
 | GND | 0.1uF の接続先 |
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="linaaudio-2"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="simple" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="linaaudio-2"></div></div>

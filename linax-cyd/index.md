@@ -105,4 +105,4 @@ microSD は、romfs イメージをカードの先頭から raw で書き込ん�
 
 シェルには cd や行編集はありません。コマンド入力後にプロンプトが 2 回表示されることがありますが、CR+LF の扱いによる表示上のもので、そのままにしています。
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="linax-cyd"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="simple" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="linax-cyd"></div></div>

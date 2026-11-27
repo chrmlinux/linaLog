@@ -139,4 +139,4 @@ PD1 (Pin8) を外部デバイスに使う場合、書き込み時は一時的に
 - USB コネクタ直付けで超コンパクト
 - CH32V003J4M6 + USB-HID + GROVE の組み合わせは **世界初の可能性**
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="linaduino-usbgrove"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-template="simple" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="linaduino-usbgrove"></div></div>
