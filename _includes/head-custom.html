@@ -98,6 +98,11 @@ document.addEventListener('DOMContentLoaded', function () {
   ];
   var bar = document.createElement('div');
   bar.className = 'share-bar';
+  var home = document.createElement('a');
+  home.className = 'share-btn';
+  home.href = '/' + location.pathname.split('/')[1] + '/';
+  home.textContent = 'トップへ';
+  bar.appendChild(home);
   var label = document.createElement('span');
   label.className = 'share-label';
   label.textContent = '共有:';

@@ -148,6 +148,14 @@ Project write-ups, in Markdown.
       li.style.display = (i >= (page - 1) * PER && i < page * PER) ? '' : 'none';
     });
     pager.innerHTML = '';
+    var prev = document.createElement('button');
+    prev.type = 'button';
+    prev.className = 'pager-btn';
+    prev.textContent = '前へ';
+    prev.disabled = (page <= 1);
+    if (page <= 1) prev.style.opacity = '0.4';
+    prev.addEventListener('click', function () { if (page > 1) { page--; showPage(); } });
+    pager.appendChild(prev);
     for (var n = 1; n <= pages; n++) {
       (function (n) {
         var b = document.createElement('button');
@@ -158,6 +166,14 @@ Project write-ups, in Markdown.
         pager.appendChild(b);
       })(n);
     }
+    var next = document.createElement('button');
+    next.type = 'button';
+    next.className = 'pager-btn';
+    next.textContent = '次へ';
+    next.disabled = (page >= pages);
+    if (page >= pages) next.style.opacity = '0.4';
+    next.addEventListener('click', function () { if (page < pages) { page++; showPage(); } });
+    pager.appendChild(next);
   }
   function apply() {
     var items = Array.prototype.slice.call(list.querySelectorAll('li'));
