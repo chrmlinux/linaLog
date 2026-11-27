@@ -55,6 +55,7 @@ Project write-ups, in Markdown.
 <p><button id="sortBtn" type="button">古い順に並べ替える</button></p>
 
 <ul id="articleList">
+  <li data-date="2026-11-27 15:31"><img class="thumb" src="assets/rina-chan.png" alt="">2026-11-27 15:31 ― <a href="linalog-counter-like/">linaLog にアクセスカウンターと「いいね」を付けた件</a></li>
   <li data-date="2026-11-27 13:44"><img class="thumb" src="assets/rina-chan.png" alt="">2026-11-27 13:44 ― <a href="blog-migration/">elchika から GitHub Pages へ、ブログ71記事を引っ越した手順</a></li>
   <li data-date="2026-11-26 20:17"><img class="thumb" src="assets/rina-chan.png" alt="">2026-11-26 20:17 ― <a href="linax-uno/">linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS</a></li>
   <li data-date="2026-11-23 13:54"><img class="thumb" src="assets/rina-chan.png" alt="">2026-11-23 13:54 ― <a href="windows-disk/">[Junction] Windows の C ドライブを空ける話 [目から鱗]</a></li>
