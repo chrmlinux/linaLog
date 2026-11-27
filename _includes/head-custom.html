@@ -79,8 +79,6 @@ document.addEventListener('DOMContentLoaded', function () {
 </style>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var parts = location.pathname.replace(/\/+$/, '').split('/').filter(Boolean);
-  if (parts.length < 2) return;
   var main = document.getElementById('main_content');
   if (!main) return;
   var url = encodeURIComponent(location.href);
