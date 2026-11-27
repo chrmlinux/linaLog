@@ -17,4 +17,4 @@ Project write-ups, in Markdown.
 - 2026-09-08 19:25 ― [[#SPRESENSE 2026]最終奥義OS作ってみたにょ[linaX]](spresense-linax/index.md)
 - 2026-08-31 16:56 ― [[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveB/LiveP編]](liveb-livep/index.md)
 - 2026-08-26 11:44 ― [[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveC編]](livec/index.md)
-- 2025-01-28 23:13 ― [【SPRESENSE2024】仮想30コアでマンデルブロ集合【リアルタイム描画】](spresense-mandelbrot/index.md)
+- 2025-01-28 23:13 ― <img src="spresense-mandelbrot/images/img01.jpg" width="78"> [【SPRESENSE2024】仮想30コアでマンデルブロ集合【リアルタイム描画】](spresense-mandelbrot/index.md)
