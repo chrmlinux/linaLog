@@ -125,6 +125,13 @@ document.addEventListener('DOMContentLoaded', function () {
   rss.href = '/' + location.pathname.split('/').filter(Boolean)[0] + '/feed.xml';
   rss.textContent = 'RSS';
   bar.appendChild(rss);
+  var xprof = document.createElement('a');
+  xprof.className = 'share-btn';
+  xprof.href = 'https://x.com/chrmlinux03';
+  xprof.textContent = '作者の X';
+  xprof.target = '_blank';
+  xprof.rel = 'noopener';
+  bar.appendChild(xprof);
   if (window.qrcode) {
     try {
       var qr = qrcode(0, 'L');

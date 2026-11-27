@@ -14,6 +14,8 @@ image: https://chrmlinux.github.io/linaLog/assets/rina-chan.png
 
 Project write-ups, in Markdown.
 
+<p>X: <a href="https://x.com/chrmlinux03">@chrmlinux03</a></p>
+
 <p><a href="feed.xml">RSS フィード</a></p>
 
 ## 記事 / Articles
