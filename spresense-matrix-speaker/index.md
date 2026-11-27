@@ -41,7 +41,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-matrix-speaker/images/img01
 ![M4ナットセットを使ったターミナル](images/img04.jpg)
 ![配線はここを通すのでガラスに穴は要らない](images/img05.png)
 
-<u>[エンクロージャー詳細はこちら](../spresense-mp3-cub/#h_%E3%82%A8%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8%E3%81%8B%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B%EF%BC%9F)</u>
+[<u>エンクロージャー詳細はこちら</u>](../spresense-mp3-cub/#h_%E3%82%A8%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8%E3%81%8B%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B%EF%BC%9F)
 今回はバスレフ機構を採用
 
 ・ 試行錯誤を繰り返したプリント工程
@@ -101,7 +101,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-matrix-speaker/images/img01
 ![PAM8403がよく飛ぶのでコネクタ付け](images/img25.jpg)
 今回のプロジェクトでは、MP3制御にソニー製のIoT向けマイコンボード「Spresense」を採用しました。Spresenseは、低消費電力、高処理能力、豊富なオーディオ機能を備えており、高音質かつ多機能なMP3プレーヤーを実現するのに最適なプラットフォームです。
 SpresenseのAudioライブラリを使用することで、MP3の再生、停止、音量調整などを簡単に実装できました。また、マルチコアCPUを活用することで、MP3デコードと同時に他の処理を実行することができ、より高度な機能を実現できる可能性を秘めています。
-<u>[自作オーディオライブラリはこちら](../spresense-mp3-cub/#h_%E3%83%AA%E3%83%8A%E3%81%A1%E3%82%83%E3%82%93%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA)</u>
+[<u>自作オーディオライブラリはこちら</u>](../spresense-mp3-cub/#h_%E3%83%AA%E3%83%8A%E3%81%A1%E3%82%83%E3%82%93%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA)
 
 ### プロジェクトを通して得たもの、そして未来へ
 ・ 音響設計の奥深さへの理解

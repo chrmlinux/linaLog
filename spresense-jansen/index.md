@@ -13,7 +13,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-jansen/images/img01.jpg
 今回は eNord を使ってロボットを動かします。
 最低限の機構を搭載した eNord@Recvが spresense を使い eNord@Send で
 自由に走行を行います。
-<u>[eNord 簡単な解説](../spresense-enord/)</u>
+[<u>eNord 簡単な解説</u>](../spresense-enord/)
 
 ## ロボットが大好きです
 ロボット大好きですよ。ロボットを作る為にコンピュータをやっているといっても過言では無かったんですけど、いつの間にかセンサ屋さんになってた頃があります。あ、今は調理師やってますっ
