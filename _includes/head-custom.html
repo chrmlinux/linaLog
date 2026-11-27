@@ -92,8 +92,9 @@ document.addEventListener('DOMContentLoaded', function () {
   var url = encodeURIComponent(location.href);
   var title = document.title.replace(/\s*\|\s*linaLog\s*$/, '');
   var text = encodeURIComponent(title);
+  var xurl = encodeURIComponent(location.href + (location.href.indexOf('?') < 0 ? '?' : '&') + 'r=' + Math.floor(Math.random() * 1000000000));
   var links = [
-    ['X にポスト', 'https://twitter.com/intent/tweet?text=' + text + '&url=' + url],
+    ['X にポスト', 'https://twitter.com/intent/tweet?text=' + text + '&url=' + xurl],
     ['note で書く', 'https://note.com/intent/post?url=' + url],
     ['LINE で送る', 'https://social-plugins.line.me/lineit/share?url=' + url],
     ['はてなブックマーク', 'https://b.hatena.ne.jp/add?mode=confirm&url=' + url + '&title=' + text]
