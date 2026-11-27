@@ -56,3 +56,57 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
+<style>
+.share-bar {
+  margin-top: 32px;
+  padding-top: 12px;
+  border-top: 1px solid #b5e853;
+}
+.share-bar .share-label { margin-right: 10px; }
+.share-btn {
+  display: inline-block;
+  background: #151515;
+  color: #b5e853;
+  border: 1px solid #b5e853;
+  padding: 3px 12px;
+  margin: 0 8px 8px 0;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", monospace;
+  font-size: 13px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.share-btn:hover { background: #b5e853; color: #151515; text-decoration: none; }
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var parts = location.pathname.replace(/\/+$/, '').split('/').filter(Boolean);
+  if (parts.length < 2) return;
+  var main = document.getElementById('main_content');
+  if (!main) return;
+  var url = encodeURIComponent(location.href);
+  var title = document.title.replace(/\s*\|\s*linaLog\s*$/, '');
+  var text = encodeURIComponent(title);
+  var links = [
+    ['X にポスト', 'https://twitter.com/intent/tweet?text=' + text + '&url=' + url],
+    ['note で書く', 'https://note.com/intent/post?url=' + url],
+    ['LINE で送る', 'https://social-plugins.line.me/lineit/share?url=' + url],
+    ['はてなブックマーク', 'https://b.hatena.ne.jp/add?mode=confirm&url=' + url + '&title=' + text]
+  ];
+  var bar = document.createElement('div');
+  bar.className = 'share-bar';
+  var label = document.createElement('span');
+  label.className = 'share-label';
+  label.textContent = '共有:';
+  bar.appendChild(label);
+  links.forEach(function (pair) {
+    var a = document.createElement('a');
+    a.className = 'share-btn';
+    a.href = pair[1];
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.textContent = pair[0];
+    bar.appendChild(a);
+  });
+  main.appendChild(bar);
+});
+</script>
