@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/cardkb2-cntc/images/img01.jpg
+---
+
 # [M5Stack]CardKB2にCNT+Cを実装する[3分ハッキング最終回]
 
 2026年11月16日 16:49

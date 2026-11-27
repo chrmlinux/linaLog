@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/arduino-setup1loop1/images/img01.jpg
+---
+
 # RP2040のsetup1/loop1が素敵なので Arduino でも使えるように実装してみたよっ
 
 2022年6月23日 15:41

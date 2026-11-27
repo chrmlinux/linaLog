@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/easylidar/images/img01.jpg
+---
+
 # Spresensを使って自律移動出来るよっ(easyLiDARの製作と運用)
 
 2022年9月15日 14:30

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-soundserenity/images/img01.jpg
+---
+
 # 【SPRESENSE2023】SoundSerenityを作ったよっ【環境音を8Trackで】
 
 2024年1月26日 09:52

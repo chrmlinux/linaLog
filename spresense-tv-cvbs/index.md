@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-tv-cvbs/images/img01.png
+---
+
 # [SPRESENSE 2026]TVに出力したにょ[CVBS]
 
 2026年6月10日 12:22

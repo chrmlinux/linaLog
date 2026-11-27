@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/assets/rina-chan.png
+---
+
 # LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11
 
 2026年11月21日 21:41

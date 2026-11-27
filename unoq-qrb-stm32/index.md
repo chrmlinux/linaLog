@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/unoq-qrb-stm32/images/img01.png
+---
+
 # 【unoQ】さっそく簡単にQRBとSTM32U5通信させたにょ【小さなLinux機】
 
 2026年2月9日 17:57

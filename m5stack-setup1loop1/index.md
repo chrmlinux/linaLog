@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/m5stack-setup1loop1/images/img01.jpg
+---
+
 # RP2040のsetup1/loop1が素敵なので M5Stack/ESP32 にも実装してみたよっ
 
 2022年6月20日 16:12

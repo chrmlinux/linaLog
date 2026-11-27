@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-linax-port/images/img01.jpg
+---
+
 # [#SPRESENSE 2026]移植してみたにょ[linaX]
 
 2026年9月12日 13:06

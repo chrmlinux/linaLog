@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-module/images/img01.jpg
+---
+
 # 【SPRESENSE2023】組込用のSPRESENSEモジュールを作ったよ
 
 2024年1月26日 09:34

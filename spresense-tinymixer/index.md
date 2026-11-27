@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-tinymixer/images/img01.jpg
+---
+
 # 【SPRESENSE2023】tinyMixer【簡易ミキサー】
 
 2024年1月26日 09:45

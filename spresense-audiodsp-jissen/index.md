@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-audiodsp-jissen/images/img01.jpg
+---
+
 # 【SPRESENSE2023】AudioDSPを絶妙にハックしたよっ【実践編】
 
 2024年1月26日 09:36

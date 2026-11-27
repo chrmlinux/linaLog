@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/cardkb2-ssh/images/img01.jpg
+---
+
 # [M5Stack]CardKB2に SSH クライアント実装した[3分ハッキング付録]
 
 2026年11月18日 11:01

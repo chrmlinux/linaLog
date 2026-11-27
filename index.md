@@ -1,6 +1,7 @@
 ---
 layout: default
 title: linaLog
+image: https://chrmlinux.github.io/linaLog/assets/rina-chan.png
 ---
 
 # linaLog

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/tinyx11-cyd/images/img01.jpg
+---
+
 # [cyd] $7の液晶付きマイコンに x11 を載せてみた[3分ハッキング別冊]
 
 2026年11月19日 10:46

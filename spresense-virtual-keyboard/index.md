@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-virtual-keyboard/images/img01.jpg
+---
+
 {% raw %}
 # 【SPRESENSE2023】タッチパネルにバーチャルキーボードを載せたよっ
 

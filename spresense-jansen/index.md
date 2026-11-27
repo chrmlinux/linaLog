@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-jansen/images/img01.jpg
+---
+
 # 【SPRESENSE2024】動くテオ・ヤンセン機構【eNord通信】
 
 2025年1月31日 20:05

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/linaduino-4btnpad/images/img01.jpg
+---
+
 # 【linaDuino】25円で作るUSB-HIDだにょ【4btnPad】
 
 2026年5月14日 14:27

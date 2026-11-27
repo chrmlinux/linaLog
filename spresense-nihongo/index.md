@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-nihongo/images/img01.jpg
+---
+
 # [#SPRESENSE 2026]簡単だけど奥が深いにょ[日本語入力]
 
 2026年9月19日 13:51

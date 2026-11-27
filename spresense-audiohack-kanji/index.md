@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-audiohack-kanji/images/img01.png
+---
+
 # [SPRESENSE 2026]AudioHack漢字に対応したにょ[CVBS]
 
 2026年6月16日 16:51

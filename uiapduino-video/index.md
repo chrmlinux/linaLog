@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/uiapduino-video/images/img01.png
+---
+
 # 【UIAPduino】VIDEO信号を出したにょ①【290円マイコン基板】
 
 2026年3月25日 12:41

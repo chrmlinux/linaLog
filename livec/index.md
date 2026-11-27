@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/livec/images/img01.jpg
+---
+
 # [#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveC編]
 
 2026年8月26日 11:44

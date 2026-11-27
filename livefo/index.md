@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/livefo/images/img01.jpg
+---
+
 # [#SPRESENSE 2026] FORTRAN(VM)を作ったにょ [LiveFO編]
 
 2026年9月3日 13:06

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/ch32v003-cardputer-lcd/images/img01.jpg
+---
+
 # [ch32v003]ほぼどんなマイコンでも液晶付けられるにょ[cardputer]
 
 2026年9月16日 11:06

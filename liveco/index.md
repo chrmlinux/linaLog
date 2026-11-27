@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/liveco/images/img01.jpg
+---
+
 # [#SPRESENSE 2026] COBOLインタプリタ(VM)を作ったにょ [LiveCO編]
 
 2026年9月2日 13:20

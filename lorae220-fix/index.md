@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/lorae220-fix/images/img01.jpg
+---
+
 # LoRaE220_900T22S_JPのサンプルが間違ってたので修正したよっ
 
 2023年12月12日 08:05

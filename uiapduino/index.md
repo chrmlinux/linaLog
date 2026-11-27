@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/uiapduino/images/img01.png
+---
+
 # 【UIAPduino】普通に使えるっぽいにょ【290円マイコン基板】
 
 2026年3月7日 17:56

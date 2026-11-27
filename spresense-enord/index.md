@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-enord/images/img01.png
+---
+
 # 【SPRESENSE2024】esp32とSpresenseによるモデム機能制御"eNord"の構築
 
 2024年12月12日 13:14

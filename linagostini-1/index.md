@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/linagostini-1/images/img01.png
+---
+
 # 【リナゴスティーニ①創刊号】64bitI2Cクラスタを27円RISC-Vで作るにょ【思想】
 
 2026年4月8日 11:21

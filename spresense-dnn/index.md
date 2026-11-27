@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-dnn/images/img01.jpg
+---
+
 # 【SPRESENSE2025】dnnPlathomeを作ったょ【YOLOっぽい】
 
 2026年1月20日 18:59

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/linaaudio-2/images/img01.png
+---
+
 # 【linaAudio】45円CPUで作るUSB-Audioだにょ②【動作編】
 
 2026年6月5日 10:50

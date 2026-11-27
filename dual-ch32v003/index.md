@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/dual-ch32v003/images/img01.png
+---
+
 # 【dualCH32V003】92ByteでPD6から高速矩形波を出してみたにょ【40円マイコン】
 
 2026年4月1日 11:06

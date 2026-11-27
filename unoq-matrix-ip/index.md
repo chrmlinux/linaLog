@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/unoq-matrix-ip/images/img01.png
+---
+
 # 【unoQ】起動時にIPアドレスと温度をMatrixに表示するにょ【小さなLinux機】
 
 2026年3月5日 18:23

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/livec-ch9350/images/img01.jpg
+---
+
 # [#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[ch9350編]
 
 2026年8月26日 13:10

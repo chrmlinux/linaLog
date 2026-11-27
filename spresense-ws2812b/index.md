@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-ws2812b/images/img01.png
+---
+
 # 【SPRESENSE2023】WS2812B で流れるような光効果を～
 
 2024年1月26日 09:31

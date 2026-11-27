@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-radio/images/img01.png
+---
+
 # 【SPRESENSE2025】spresense拡張基板に搭載できるラジオモジュールを作ったよっ
 
 2026年1月9日 16:25

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/linaduino-usbgrove/images/img01.jpg
+---
+
 # 【linaDuino】25円で作るUSBGroveブリッジだにょ【USBGrove】
 
 2026年5月15日 08:31

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/assets/rina-chan.png
+---
+
 # elchika から GitHub Pages へ、ブログ71記事を引っ越した手順
 
 2026年11月27日 13:44

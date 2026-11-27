@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/linaduino/images/img01.png
+---
+
 # 【linaDuino】リナディーノ(てじなーにゃのアクセントで)【世界最小Arduino互換】
 
 2026年5月7日 14:09

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-virtual-fader/images/img01.jpg
+---
+
 # 【SPRESENSE2023】タッチパネルにバーチャルフェーダーを載せたよっ
 
 2024年1月26日 09:41

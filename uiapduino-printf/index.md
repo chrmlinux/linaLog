@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/uiapduino-printf/images/img01.png
+---
+
 # 【UIAPduino】printf を実装するにょ【290円マイコン基板】
 
 2026年3月18日 13:17

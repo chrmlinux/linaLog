@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/unoq-windows/images/img01.png
+---
+
 # 【unoQ】Windowsを動かしたにょ【小さなLinux機】
 
 2026年2月25日 10:06

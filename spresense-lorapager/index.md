@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-lorapager/images/img01.jpg
+---
+
 # 【SPRESENSE2023】LoRaPagerを作ったよっ【簡易メッセンジャー】
 
 2024年1月26日 09:49

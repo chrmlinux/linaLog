@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/lindos/images/img01.jpg
+---
+
 # [#SPRESENSE 2026]OS作ってみたにょ[LinDOS]
 
 2026年9月7日 17:13

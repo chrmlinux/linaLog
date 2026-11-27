@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-dsp-riron/images/img01.jpg
+---
+
 # SPRESENSE の DSPを微妙にHackするよっ【理論編】
 
 2023年12月14日 19:51

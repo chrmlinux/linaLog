@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-mandelbrot/images/img01.jpg
+---
+
 # 【SPRESENSE2024】仮想30コアでマンデルブロ集合【リアルタイム描画】
 
 2025年1月28日 23:13

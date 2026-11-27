@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-setup1loop1/images/img01.jpg
+---
+
 # RP2040のsetup1/loop1が素敵なので SPRESENSE にも実装してみたよっ
 
 2023年12月1日 16:06

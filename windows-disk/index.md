@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/assets/rina-chan.png
+---
+
 # [Junction] Windows の C ドライブを空ける話 [目から鱗]
 
 2026年11月23日 13:54

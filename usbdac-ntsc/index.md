@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/usbdac-ntsc/images/img01.png
+---
+
 # [USBDAC]イヤホンジャックでNTSC映像を出してみたにょ[CVBS]
 
 2026年6月17日 13:27

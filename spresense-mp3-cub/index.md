@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-mp3-cub/images/img01.jpg
+---
+
 # 【SPRESENSE2024】mp3綺麗に鳴らす【CuB】
 
 2024年12月23日 16:19

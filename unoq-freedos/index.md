@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/unoq-freedos/images/img01.png
+---
+
 # 【unoQ】tiny386でFreeDos動かしたにょ【小さなLinux機】
 
 2026年3月2日 06:44

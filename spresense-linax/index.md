@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-linax/images/img01.jpg
+---
+
 # [#SPRESENSE 2026]最終奥義OS作ってみたにょ[linaX]
 
 2026年9月8日 19:25

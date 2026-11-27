@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-sprepad/images/img01.png
+---
+
 # 【SPRESENSE2025】VGA液晶を搭載しGPS地図を表示したにょ【sprePAD?】
 
 2026年1月28日 01:47

@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-bstem-touch/images/img01.jpg
+---
+
 # 【SPRESENSE2023】B-Stem4CM01Displayにタッチパネルの改造を行うよっ
 
 2024年1月26日 09:47

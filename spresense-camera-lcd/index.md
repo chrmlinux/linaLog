@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/spresense-camera-lcd/images/img01.png
+---
+
 # 【SPRESENSE】液晶にカメラ画像の動画再生に成功したよっ
 
 2024年2月6日 21:29

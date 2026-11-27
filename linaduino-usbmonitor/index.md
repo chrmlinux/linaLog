@@ -1,3 +1,7 @@
+---
+image: https://chrmlinux.github.io/linaLog/linaduino-usbmonitor/images/img01.jpg
+---
+
 # 【linaDuino】25円で作るUSBモニターだにょ【USBMonitor】
 
 2026年5月14日 20:30
