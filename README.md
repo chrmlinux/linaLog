@@ -10,6 +10,7 @@ Project write-ups, in Markdown.
 
 ## 記事 / Articles
 
+- 2026-11-27 13:44 ― <img src="assets/rina-chan.png" width="78"> [elchika から GitHub Pages へ、ブログ71記事を引っ越した手順](blog-migration/index.md)
 - 2026-11-26 20:17 ― <img src="assets/rina-chan.png" width="78"> [linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS](linax-uno/index.md)
 - 2026-11-23 13:54 ― <img src="assets/rina-chan.png" width="78"> [[Junction] Windows の C ドライブを空ける話 [目から鱗]](windows-disk/index.md)
 - 2026-11-21 21:41 ― <img src="assets/rina-chan.png" width="78"> [LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11](linax-cyd/index.md)
