@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', function () {
       qr.make();
       var box = document.createElement('div');
       box.className = 'share-qr';
-      box.innerHTML = '<div class="share-qr-label">QRコード（このページ）</div>' + qr.createSvgTag({ cellSize: 4, margin: 4, scalable: false });
+      box.innerHTML = '<div class="share-qr-label">QRコード（このページ）</div>' + qr.createSvgTag({ cellSize: 4, margin: 16, scalable: false });
       bar.appendChild(box);
     } catch (e) {}
   }
