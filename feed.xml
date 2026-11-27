@@ -28,11 +28,53 @@
 <description>LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11</description>
 </item>
 <item>
+<title>[CYD]内蔵 DRAM 320KB で Linux6.11を動かしたにょ</title>
+<link>https://chrmlinux.github.io/linaLog/cyd-linux611/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/cyd-linux611/</guid>
+<pubDate>Sat, 21 Nov 2026 14:52:00 +0900</pubDate>
+<description>[CYD]内蔵 DRAM 320KB で Linux6.11を動かしたにょ</description>
+</item>
+<item>
 <title>[cyd] $7の液晶付きマイコンに x11 を載せてみた[3分ハッキング別冊]</title>
 <link>https://chrmlinux.github.io/linaLog/tinyx11-cyd/</link>
 <guid isPermaLink="true">https://chrmlinux.github.io/linaLog/tinyx11-cyd/</guid>
 <pubDate>Thu, 19 Nov 2026 10:46:00 +0900</pubDate>
 <description>[cyd] $7の液晶付きマイコンに x11 を載せてみた[3分ハッキング別冊]</description>
+</item>
+<item>
+<title>[M5Stack]CardKB2に SSH クライアント実装した[3分ハッキング付録]</title>
+<link>https://chrmlinux.github.io/linaLog/cardkb2-ssh/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/cardkb2-ssh/</guid>
+<pubDate>Wed, 18 Nov 2026 11:01:00 +0900</pubDate>
+<description>[M5Stack]CardKB2に SSH クライアント実装した[3分ハッキング付録]</description>
+</item>
+<item>
+<title>[M5Stack]CardKB2にCNT+Cを実装する[3分ハッキング最終回]</title>
+<link>https://chrmlinux.github.io/linaLog/cardkb2-cntc/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/cardkb2-cntc/</guid>
+<pubDate>Mon, 16 Nov 2026 16:49:00 +0900</pubDate>
+<description>[M5Stack]CardKB2にCNT+Cを実装する[3分ハッキング最終回]</description>
+</item>
+<item>
+<title>[#SPRESENSE 2026]簡単だけど奥が深いにょ[日本語入力]</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-nihongo/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-nihongo/</guid>
+<pubDate>Sat, 19 Sep 2026 13:51:00 +0900</pubDate>
+<description>[#SPRESENSE 2026]簡単だけど奥が深いにょ[日本語入力]</description>
+</item>
+<item>
+<title>[ch32v003]ほぼどんなマイコンでも液晶付けられるにょ[cardputer]</title>
+<link>https://chrmlinux.github.io/linaLog/ch32v003-cardputer-lcd/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/ch32v003-cardputer-lcd/</guid>
+<pubDate>Wed, 16 Sep 2026 11:06:00 +0900</pubDate>
+<description>[ch32v003]ほぼどんなマイコンでも液晶付けられるにょ[cardputer]</description>
+</item>
+<item>
+<title>[#SPRESENSE 2026]移植してみたにょ[linaX]</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-linax-port/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-linax-port/</guid>
+<pubDate>Sat, 12 Sep 2026 13:06:00 +0900</pubDate>
+<description>[#SPRESENSE 2026]移植してみたにょ[linaX]</description>
 </item>
 <item>
 <title>[#SPRESENSE 2026]最終奥義OS作ってみたにょ[linaX]</title>
@@ -42,11 +84,46 @@
 <description>[#SPRESENSE 2026]最終奥義OS作ってみたにょ[linaX]</description>
 </item>
 <item>
+<title>[#SPRESENSE 2026]OS作ってみたにょ[LinDOS]</title>
+<link>https://chrmlinux.github.io/linaLog/lindos/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/lindos/</guid>
+<pubDate>Mon, 07 Sep 2026 17:13:00 +0900</pubDate>
+<description>[#SPRESENSE 2026]OS作ってみたにょ[LinDOS]</description>
+</item>
+<item>
+<title>[#SPRESENSE 2026] FORTRAN(VM)を作ったにょ [LiveFO編]</title>
+<link>https://chrmlinux.github.io/linaLog/livefo/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/livefo/</guid>
+<pubDate>Thu, 03 Sep 2026 13:06:00 +0900</pubDate>
+<description>[#SPRESENSE 2026] FORTRAN(VM)を作ったにょ [LiveFO編]</description>
+</item>
+<item>
+<title>[#SPRESENSE 2026] COBOLインタプリタ(VM)を作ったにょ [LiveCO編]</title>
+<link>https://chrmlinux.github.io/linaLog/liveco/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/liveco/</guid>
+<pubDate>Wed, 02 Sep 2026 13:20:00 +0900</pubDate>
+<description>[#SPRESENSE 2026] COBOLインタプリタ(VM)を作ったにょ [LiveCO編]</description>
+</item>
+<item>
 <title>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveB/LiveP編]</title>
 <link>https://chrmlinux.github.io/linaLog/liveb-livep/</link>
 <guid isPermaLink="true">https://chrmlinux.github.io/linaLog/liveb-livep/</guid>
 <pubDate>Mon, 31 Aug 2026 16:56:00 +0900</pubDate>
 <description>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveB/LiveP編]</description>
+</item>
+<item>
+<title>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[エディタ編]</title>
+<link>https://chrmlinux.github.io/linaLog/livec-editor/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/livec-editor/</guid>
+<pubDate>Wed, 26 Aug 2026 13:28:00 +0900</pubDate>
+<description>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[エディタ編]</description>
+</item>
+<item>
+<title>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[ch9350編]</title>
+<link>https://chrmlinux.github.io/linaLog/livec-ch9350/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/livec-ch9350/</guid>
+<pubDate>Wed, 26 Aug 2026 13:10:00 +0900</pubDate>
+<description>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[ch9350編]</description>
 </item>
 <item>
 <title>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveC編]</title>
@@ -56,11 +133,389 @@
 <description>[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveC編]</description>
 </item>
 <item>
+<title>[USBDAC]基板が小さくなったにょ[CVBS]</title>
+<link>https://chrmlinux.github.io/linaLog/usbdac-cvbs-small/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/usbdac-cvbs-small/</guid>
+<pubDate>Thu, 18 Jun 2026 11:41:00 +0900</pubDate>
+<description>[USBDAC]基板が小さくなったにょ[CVBS]</description>
+</item>
+<item>
+<title>[USBDAC]イヤホンジャックでNTSC映像を出してみたにょ[CVBS]</title>
+<link>https://chrmlinux.github.io/linaLog/usbdac-ntsc/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/usbdac-ntsc/</guid>
+<pubDate>Wed, 17 Jun 2026 13:27:00 +0900</pubDate>
+<description>[USBDAC]イヤホンジャックでNTSC映像を出してみたにょ[CVBS]</description>
+</item>
+<item>
+<title>[SPRESENSE 2026]AudioHack漢字に対応したにょ[CVBS]</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-audiohack-kanji/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-audiohack-kanji/</guid>
+<pubDate>Tue, 16 Jun 2026 16:51:00 +0900</pubDate>
+<description>[SPRESENSE 2026]AudioHack漢字に対応したにょ[CVBS]</description>
+</item>
+<item>
+<title>[SPRESENSE 2026]AudioJackをHackしたにょ[CVBS]</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-audiojack-hack/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-audiojack-hack/</guid>
+<pubDate>Mon, 15 Jun 2026 16:52:00 +0900</pubDate>
+<description>[SPRESENSE 2026]AudioJackをHackしたにょ[CVBS]</description>
+</item>
+<item>
+<title>[SPRESENSE 2026]TVに出力したにょ[CVBS]</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-tv-cvbs/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-tv-cvbs/</guid>
+<pubDate>Wed, 10 Jun 2026 12:22:00 +0900</pubDate>
+<description>[SPRESENSE 2026]TVに出力したにょ[CVBS]</description>
+</item>
+<item>
+<title>【linaAudio】45円CPUで作るUSB-Audioだにょ②【動作編】</title>
+<link>https://chrmlinux.github.io/linaLog/linaaudio-2/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/linaaudio-2/</guid>
+<pubDate>Fri, 05 Jun 2026 10:50:00 +0900</pubDate>
+<description>【linaAudio】45円CPUで作るUSB-Audioだにょ②【動作編】</description>
+</item>
+<item>
+<title>【linaAudio】25円CPUで作るUSB-Audioだにょ①【認識編】</title>
+<link>https://chrmlinux.github.io/linaLog/linaaudio-1/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/linaaudio-1/</guid>
+<pubDate>Wed, 27 May 2026 10:18:00 +0900</pubDate>
+<description>【linaAudio】25円CPUで作るUSB-Audioだにょ①【認識編】</description>
+</item>
+<item>
+<title>【IRFi】え？IRDAでWiFi?【無線光通信】</title>
+<link>https://chrmlinux.github.io/linaLog/irfi/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/irfi/</guid>
+<pubDate>Wed, 20 May 2026 13:58:00 +0900</pubDate>
+<description>【IRFi】え？IRDAでWiFi?【無線光通信】</description>
+</item>
+<item>
+<title>【linaDuino】25円で作るUSBGroveブリッジだにょ【USBGrove】</title>
+<link>https://chrmlinux.github.io/linaLog/linaduino-usbgrove/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/linaduino-usbgrove/</guid>
+<pubDate>Fri, 15 May 2026 08:31:00 +0900</pubDate>
+<description>【linaDuino】25円で作るUSBGroveブリッジだにょ【USBGrove】</description>
+</item>
+<item>
+<title>【linaDuino】25円で作るUSBモニターだにょ【USBMonitor】</title>
+<link>https://chrmlinux.github.io/linaLog/linaduino-usbmonitor/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/linaduino-usbmonitor/</guid>
+<pubDate>Thu, 14 May 2026 20:30:00 +0900</pubDate>
+<description>【linaDuino】25円で作るUSBモニターだにょ【USBMonitor】</description>
+</item>
+<item>
+<title>【linaDuino】25円で作るUSB-HIDだにょ【4btnPad】</title>
+<link>https://chrmlinux.github.io/linaLog/linaduino-4btnpad/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/linaduino-4btnpad/</guid>
+<pubDate>Thu, 14 May 2026 14:27:00 +0900</pubDate>
+<description>【linaDuino】25円で作るUSB-HIDだにょ【4btnPad】</description>
+</item>
+<item>
+<title>【USB-Aの成功率】50%のはずが75%の確率で間違える理由【なぜなぜ？】</title>
+<link>https://chrmlinux.github.io/linaLog/usb-a-probability/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/usb-a-probability/</guid>
+<pubDate>Sun, 10 May 2026 23:13:00 +0900</pubDate>
+<description>【USB-Aの成功率】50%のはずが75%の確率で間違える理由【なぜなぜ？】</description>
+</item>
+<item>
+<title>【linaDuino】リナディーノ(てじなーにゃのアクセントで)【世界最小Arduino互換】</title>
+<link>https://chrmlinux.github.io/linaLog/linaduino/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/linaduino/</guid>
+<pubDate>Thu, 07 May 2026 14:09:00 +0900</pubDate>
+<description>【linaDuino】リナディーノ(てじなーにゃのアクセントで)【世界最小Arduino互換】</description>
+</item>
+<item>
+<title>【リナゴスティーニ①創刊号】64bitI2Cクラスタを27円RISC-Vで作るにょ【思想】</title>
+<link>https://chrmlinux.github.io/linaLog/linagostini-1/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/linagostini-1/</guid>
+<pubDate>Wed, 08 Apr 2026 11:21:00 +0900</pubDate>
+<description>【リナゴスティーニ①創刊号】64bitI2Cクラスタを27円RISC-Vで作るにょ【思想】</description>
+</item>
+<item>
+<title>【dualCH32V003】92ByteでPD6から高速矩形波を出してみたにょ【40円マイコン】</title>
+<link>https://chrmlinux.github.io/linaLog/dual-ch32v003/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/dual-ch32v003/</guid>
+<pubDate>Wed, 01 Apr 2026 11:06:00 +0900</pubDate>
+<description>【dualCH32V003】92ByteでPD6から高速矩形波を出してみたにょ【40円マイコン】</description>
+</item>
+<item>
+<title>【UIAPduino】VIDEO信号を出したにょ①【290円マイコン基板】</title>
+<link>https://chrmlinux.github.io/linaLog/uiapduino-video/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/uiapduino-video/</guid>
+<pubDate>Wed, 25 Mar 2026 12:41:00 +0900</pubDate>
+<description>【UIAPduino】VIDEO信号を出したにょ①【290円マイコン基板】</description>
+</item>
+<item>
+<title>【UIAPduino】printf を実装するにょ【290円マイコン基板】</title>
+<link>https://chrmlinux.github.io/linaLog/uiapduino-printf/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/uiapduino-printf/</guid>
+<pubDate>Wed, 18 Mar 2026 13:17:00 +0900</pubDate>
+<description>【UIAPduino】printf を実装するにょ【290円マイコン基板】</description>
+</item>
+<item>
+<title>【UIAPduino】普通に使えるっぽいにょ【290円マイコン基板】</title>
+<link>https://chrmlinux.github.io/linaLog/uiapduino/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/uiapduino/</guid>
+<pubDate>Sat, 07 Mar 2026 17:56:00 +0900</pubDate>
+<description>【UIAPduino】普通に使えるっぽいにょ【290円マイコン基板】</description>
+</item>
+<item>
+<title>【unoQ】起動時にIPアドレスと温度をMatrixに表示するにょ【小さなLinux機】</title>
+<link>https://chrmlinux.github.io/linaLog/unoq-matrix-ip/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/unoq-matrix-ip/</guid>
+<pubDate>Thu, 05 Mar 2026 18:23:00 +0900</pubDate>
+<description>【unoQ】起動時にIPアドレスと温度をMatrixに表示するにょ【小さなLinux機】</description>
+</item>
+<item>
+<title>【unoQ】tiny386でFreeDos動かしたにょ【小さなLinux機】</title>
+<link>https://chrmlinux.github.io/linaLog/unoq-freedos/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/unoq-freedos/</guid>
+<pubDate>Mon, 02 Mar 2026 06:44:00 +0900</pubDate>
+<description>【unoQ】tiny386でFreeDos動かしたにょ【小さなLinux機】</description>
+</item>
+<item>
+<title>【unoQ】Windowsを動かしたにょ【小さなLinux機】</title>
+<link>https://chrmlinux.github.io/linaLog/unoq-windows/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/unoq-windows/</guid>
+<pubDate>Wed, 25 Feb 2026 10:06:00 +0900</pubDate>
+<description>【unoQ】Windowsを動かしたにょ【小さなLinux機】</description>
+</item>
+<item>
+<title>【unoQ】ROS2を無理やり入れたにょ【小さなLinux機】</title>
+<link>https://chrmlinux.github.io/linaLog/unoq-ros2/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/unoq-ros2/</guid>
+<pubDate>Wed, 18 Feb 2026 09:42:00 +0900</pubDate>
+<description>【unoQ】ROS2を無理やり入れたにょ【小さなLinux機】</description>
+</item>
+<item>
+<title>【unoQ】QRB側X11をSTM32のLCDに表示出来たにょ【小さなLinux機】</title>
+<link>https://chrmlinux.github.io/linaLog/unoq-x11-lcd/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/unoq-x11-lcd/</guid>
+<pubDate>Wed, 11 Feb 2026 16:00:00 +0900</pubDate>
+<description>【unoQ】QRB側X11をSTM32のLCDに表示出来たにょ【小さなLinux機】</description>
+</item>
+<item>
+<title>【unoQ】さっそく簡単にQRBとSTM32U5通信させたにょ【小さなLinux機】</title>
+<link>https://chrmlinux.github.io/linaLog/unoq-qrb-stm32/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/unoq-qrb-stm32/</guid>
+<pubDate>Mon, 09 Feb 2026 17:57:00 +0900</pubDate>
+<description>【unoQ】さっそく簡単にQRBとSTM32U5通信させたにょ【小さなLinux機】</description>
+</item>
+<item>
+<title>【unoQ】Arduino UNO Q 簡単初期セットアップ手順【小さなLinux機】</title>
+<link>https://chrmlinux.github.io/linaLog/unoq-setup/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/unoq-setup/</guid>
+<pubDate>Fri, 06 Feb 2026 10:54:00 +0900</pubDate>
+<description>【unoQ】Arduino UNO Q 簡単初期セットアップ手順【小さなLinux機】</description>
+</item>
+<item>
+<title>【SPRESENSE2025】VGA液晶を搭載しGPS地図を表示したにょ【sprePAD?】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-sprepad/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-sprepad/</guid>
+<pubDate>Wed, 28 Jan 2026 01:47:00 +0900</pubDate>
+<description>【SPRESENSE2025】VGA液晶を搭載しGPS地図を表示したにょ【sprePAD?】</description>
+</item>
+<item>
+<title>【SPRESENSE2025】dnnPlathomeを作ったょ【YOLOっぽい】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-dnn/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-dnn/</guid>
+<pubDate>Tue, 20 Jan 2026 18:59:00 +0900</pubDate>
+<description>【SPRESENSE2025】dnnPlathomeを作ったょ【YOLOっぽい】</description>
+</item>
+<item>
+<title>【SPRESENSE2025】spresense拡張基板に搭載できるラジオモジュールを作ったよっ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-radio/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-radio/</guid>
+<pubDate>Fri, 09 Jan 2026 16:25:00 +0900</pubDate>
+<description>【SPRESENSE2025】spresense拡張基板に搭載できるラジオモジュールを作ったよっ</description>
+</item>
+<item>
+<title>【SPRESENSE2024】動くテオ・ヤンセン機構【eNord通信】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-jansen/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-jansen/</guid>
+<pubDate>Fri, 31 Jan 2025 20:05:00 +0900</pubDate>
+<description>【SPRESENSE2024】動くテオ・ヤンセン機構【eNord通信】</description>
+</item>
+<item>
+<title>【SPRESENSE2024】3Dプリンターで長岡式マトリクススピーカー【夢のオーディオ体験】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-matrix-speaker/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-matrix-speaker/</guid>
+<pubDate>Thu, 30 Jan 2025 17:09:00 +0900</pubDate>
+<description>【SPRESENSE2024】3Dプリンターで長岡式マトリクススピーカー【夢のオーディオ体験】</description>
+</item>
+<item>
+<title>【SPRESENSE2024】今年の恵方巻きの方向は？【サテライトコンパス】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-compass/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-compass/</guid>
+<pubDate>Wed, 29 Jan 2025 16:24:00 +0900</pubDate>
+<description>【SPRESENSE2024】今年の恵方巻きの方向は？【サテライトコンパス】</description>
+</item>
+<item>
 <title>【SPRESENSE2024】仮想30コアでマンデルブロ集合【リアルタイム描画】</title>
 <link>https://chrmlinux.github.io/linaLog/spresense-mandelbrot/</link>
 <guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-mandelbrot/</guid>
 <pubDate>Tue, 28 Jan 2025 23:13:00 +0900</pubDate>
 <description>【SPRESENSE2024】仮想30コアでマンデルブロ集合【リアルタイム描画】</description>
+</item>
+<item>
+<title>【SPRESENSE2024】mp3綺麗に鳴らす【CuB】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-mp3-cub/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-mp3-cub/</guid>
+<pubDate>Mon, 23 Dec 2024 16:19:00 +0900</pubDate>
+<description>【SPRESENSE2024】mp3綺麗に鳴らす【CuB】</description>
+</item>
+<item>
+<title>【SPRESENSE2024】esp32とSpresenseによるモデム機能制御"eNord"の構築</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-enord/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-enord/</guid>
+<pubDate>Thu, 12 Dec 2024 13:14:00 +0900</pubDate>
+<description>【SPRESENSE2024】esp32とSpresenseによるモデム機能制御"eNord"の構築</description>
+</item>
+<item>
+<title>【SPRESENSE】複数LCD制御のためのSpresenseとLovyanGFXに関する実験的研究</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-multi-lcd/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-multi-lcd/</guid>
+<pubDate>Thu, 31 Oct 2024 13:30:00 +0900</pubDate>
+<description>【SPRESENSE】複数LCD制御のためのSpresenseとLovyanGFXに関する実験的研究</description>
+</item>
+<item>
+<title>【SPRESENSE】液晶にカメラ画像の動画再生に成功したよっ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-camera-lcd/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-camera-lcd/</guid>
+<pubDate>Tue, 06 Feb 2024 21:29:00 +0900</pubDate>
+<description>【SPRESENSE】液晶にカメラ画像の動画再生に成功したよっ</description>
+</item>
+<item>
+<title>【SPRESENSE2023】SoundSerenityを作ったよっ【環境音を8Trackで】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-soundserenity/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-soundserenity/</guid>
+<pubDate>Fri, 26 Jan 2024 09:52:00 +0900</pubDate>
+<description>【SPRESENSE2023】SoundSerenityを作ったよっ【環境音を8Trackで】</description>
+</item>
+<item>
+<title>【SPRESENSE2023】LoRaPagerを作ったよっ【簡易メッセンジャー】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-lorapager/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-lorapager/</guid>
+<pubDate>Fri, 26 Jan 2024 09:49:00 +0900</pubDate>
+<description>【SPRESENSE2023】LoRaPagerを作ったよっ【簡易メッセンジャー】</description>
+</item>
+<item>
+<title>【SPRESENSE2023】B-Stem4CM01Displayにタッチパネルの改造を行うよっ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-bstem-touch/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-bstem-touch/</guid>
+<pubDate>Fri, 26 Jan 2024 09:47:00 +0900</pubDate>
+<description>【SPRESENSE2023】B-Stem4CM01Displayにタッチパネルの改造を行うよっ</description>
+</item>
+<item>
+<title>【SPRESENSE2023】tinyMixer【簡易ミキサー】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-tinymixer/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-tinymixer/</guid>
+<pubDate>Fri, 26 Jan 2024 09:45:00 +0900</pubDate>
+<description>【SPRESENSE2023】tinyMixer【簡易ミキサー】</description>
+</item>
+<item>
+<title>【SPRESENSE2023】LCD液晶基板ili9341でタッチパネルを使うよっ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-ili9341-touch/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-ili9341-touch/</guid>
+<pubDate>Fri, 26 Jan 2024 09:44:00 +0900</pubDate>
+<description>【SPRESENSE2023】LCD液晶基板ili9341でタッチパネルを使うよっ</description>
+</item>
+<item>
+<title>【SPRESENSE2023】タッチパネルにバーチャルフェーダーを載せたよっ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-virtual-fader/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-virtual-fader/</guid>
+<pubDate>Fri, 26 Jan 2024 09:41:00 +0900</pubDate>
+<description>【SPRESENSE2023】タッチパネルにバーチャルフェーダーを載せたよっ</description>
+</item>
+<item>
+<title>【SPRESENSE2023】タッチパネルにバーチャルキーボードを載せたよっ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-virtual-keyboard/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-virtual-keyboard/</guid>
+<pubDate>Fri, 26 Jan 2024 09:40:00 +0900</pubDate>
+<description>【SPRESENSE2023】タッチパネルにバーチャルキーボードを載せたよっ</description>
+</item>
+<item>
+<title>【SPRESENSE2023】LoRaのライブラリを使いやすくしたよっ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-lora-lib/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-lora-lib/</guid>
+<pubDate>Fri, 26 Jan 2024 09:38:00 +0900</pubDate>
+<description>【SPRESENSE2023】LoRaのライブラリを使いやすくしたよっ</description>
+</item>
+<item>
+<title>【SPRESENSE2023】AudioDSPを絶妙にハックしたよっ【実践編】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-audiodsp-jissen/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-audiodsp-jissen/</guid>
+<pubDate>Fri, 26 Jan 2024 09:36:00 +0900</pubDate>
+<description>【SPRESENSE2023】AudioDSPを絶妙にハックしたよっ【実践編】</description>
+</item>
+<item>
+<title>【SPRESENSE2023】組込用のSPRESENSEモジュールを作ったよ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-module/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-module/</guid>
+<pubDate>Fri, 26 Jan 2024 09:34:00 +0900</pubDate>
+<description>【SPRESENSE2023】組込用のSPRESENSEモジュールを作ったよ</description>
+</item>
+<item>
+<title>【SPRESENSE2023】WS2812B で流れるような光効果を～</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-ws2812b/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-ws2812b/</guid>
+<pubDate>Fri, 26 Jan 2024 09:31:00 +0900</pubDate>
+<description>【SPRESENSE2023】WS2812B で流れるような光効果を～</description>
+</item>
+<item>
+<title>【SPRESENSE2023】開発まとめ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-2023-matome/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-2023-matome/</guid>
+<pubDate>Wed, 24 Jan 2024 21:08:00 +0900</pubDate>
+<description>【SPRESENSE2023】開発まとめ</description>
+</item>
+<item>
+<title>SPRESENSE の DSPを微妙にHackするよっ【理論編】</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-dsp-riron/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-dsp-riron/</guid>
+<pubDate>Thu, 14 Dec 2023 19:51:00 +0900</pubDate>
+<description>SPRESENSE の DSPを微妙にHackするよっ【理論編】</description>
+</item>
+<item>
+<title>LoRaE220_900T22S_JPのサンプルが間違ってたので修正したよっ</title>
+<link>https://chrmlinux.github.io/linaLog/lorae220-fix/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/lorae220-fix/</guid>
+<pubDate>Tue, 12 Dec 2023 08:05:00 +0900</pubDate>
+<description>LoRaE220_900T22S_JPのサンプルが間違ってたので修正したよっ</description>
+</item>
+<item>
+<title>RP2040のsetup1/loop1が素敵なので SPRESENSE にも実装してみたよっ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-setup1loop1/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-setup1loop1/</guid>
+<pubDate>Fri, 01 Dec 2023 16:06:00 +0900</pubDate>
+<description>RP2040のsetup1/loop1が素敵なので SPRESENSE にも実装してみたよっ</description>
+</item>
+<item>
+<title>Spresensを使って自律移動出来るよっ(easyLiDARの製作と運用)</title>
+<link>https://chrmlinux.github.io/linaLog/easylidar/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/easylidar/</guid>
+<pubDate>Thu, 15 Sep 2022 14:30:00 +0900</pubDate>
+<description>Spresensを使って自律移動出来るよっ(easyLiDARの製作と運用)</description>
+</item>
+<item>
+<title>SpresenseをBlynkに接続出来たよっ</title>
+<link>https://chrmlinux.github.io/linaLog/spresense-blynk/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/spresense-blynk/</guid>
+<pubDate>Wed, 24 Aug 2022 21:06:00 +0900</pubDate>
+<description>SpresenseをBlynkに接続出来たよっ</description>
+</item>
+<item>
+<title>RP2040のsetup1/loop1が素敵なので Arduino でも使えるように実装してみたよっ</title>
+<link>https://chrmlinux.github.io/linaLog/arduino-setup1loop1/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/arduino-setup1loop1/</guid>
+<pubDate>Thu, 23 Jun 2022 15:41:00 +0900</pubDate>
+<description>RP2040のsetup1/loop1が素敵なので Arduino でも使えるように実装してみたよっ</description>
+</item>
+<item>
+<title>RP2040のsetup1/loop1が素敵なので M5Stack/ESP32 にも実装してみたよっ</title>
+<link>https://chrmlinux.github.io/linaLog/m5stack-setup1loop1/</link>
+<guid isPermaLink="true">https://chrmlinux.github.io/linaLog/m5stack-setup1loop1/</guid>
+<pubDate>Mon, 20 Jun 2022 16:12:00 +0900</pubDate>
+<description>RP2040のsetup1/loop1が素敵なので M5Stack/ESP32 にも実装してみたよっ</description>
 </item>
 </channel>
 </rss>
