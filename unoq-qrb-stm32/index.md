@@ -194,4 +194,4 @@ void loop() {
 ご清聴ありがとうございました
 （X 投稿の埋め込み）
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="unoq-qrb-stm32"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="unoq-qrb-stm32"></div></div>

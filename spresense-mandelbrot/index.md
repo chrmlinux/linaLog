@@ -935,4 +935,4 @@ JAXAさまとかで使ってくれないかしら…。いや、むしろ逆に�
 
 って連絡が来る可能性だってゼロじゃない。そんな日が来るなら、私も宇宙開発の一端を担ったって胸を張れるかもしれないね。
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-mandelbrot"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-mandelbrot"></div></div>

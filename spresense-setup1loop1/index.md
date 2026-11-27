@@ -66,4 +66,4 @@ Arduino IDE を使い SPRESENSEでLチカをなさっている方々
 是非こちらをお使いくださいませっ
 よろしくお願い申し上げます
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-setup1loop1"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-setup1loop1"></div></div>

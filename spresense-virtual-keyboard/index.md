@@ -241,4 +241,4 @@ linux のコンソールみたいで良いですね(棒)
 最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
 {% endraw %}
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-virtual-keyboard"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-virtual-keyboard"></div></div>

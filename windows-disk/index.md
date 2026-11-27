@@ -221,4 +221,4 @@ function expandCode(event) {
 - **ジャンクションは「経路を変えられないソフト」への手段。** 通常の Windows アプリやゲームには有効ですが、リンクの辿り方に癖のあるツール（今回の arduino-cli）では壊れます。
 - **移動は「コピー → 退避 → 切替 → 検証 → 退避を削除」の順で。** いきなり元を消さないことが、切り分けの余地を残します。
 
-<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="windows-disk"></div></div>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="windows-disk"></div></div>
