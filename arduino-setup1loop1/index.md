@@ -18,7 +18,7 @@ image: https://chrmlinux.github.io/linaLog/arduino-setup1loop1/images/img01.jpg
 
 # 変更点
 シングルコアなので今回はMsTimer2割り込みを使って動くようにしてみた
-++MsTimer2(ミリ秒単位で指定するタイマ)++
+<u>MsTimer2(ミリ秒単位で指定するタイマ)</u>
 
 # 前提条件
 coreが1個しかない
@@ -54,9 +54,9 @@ void loopN(void) {
   // cpu0 で実行したい内容を記述
 }
 ```
-++**導入方法**
+<u>**導入方法**
 [github tinyCore](https://github.com/chrmlinux/tinyCore)
-もしくは ライブラリーマネージャーから 'tinyCore' で検索++
+もしくは ライブラリーマネージャーから 'tinyCore' で検索</u>
 
 # 動作例
 ![tinyCore4Arduino](images/img02.jpg)

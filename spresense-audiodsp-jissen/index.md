@@ -14,8 +14,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-audiodsp-jissen/images/img0
 
 リナちゃん　X@chrmlinux03　です
 
-++このページは SPRESENSE2023コンテストで作った部品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った部品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 # このモジュールで実現したかった事
 ### - 誰も成しえてない8Track の音声をSPRESENSEで鳴らしたかった
 ### - Player0 と Player1 が Stero + Streo なんで 合計 4Track しか同時再生出来ないし💦 それの倍くらいの 8Track を再生したかった
@@ -80,7 +80,7 @@ image: https://chrmlinux.github.io/linaLog/spresense-audiodsp-jissen/images/img0
 - RAWファイルは単なる生のバイナリデータであり、ファイル内のデータ構造やメタデータが少ないか一切ないことが大体ある
 - RAW形式は一般的に、デジタルオーディオデータをそのまま保存するために使用され、他の形式に変換する前の生データを含むことがたまにある
 
-++要するに、PCMはデジタルオーディオの表現方法であり、RAWは通常、生の音声データを含む未加工の形式　ただし、PCMデータをRAWと呼ぶこともあるが、その場合は通常、PCMデータが特定のヘッダーやメタデータなしに生データとして保存されている状態を指す++
+<u>要するに、PCMはデジタルオーディオの表現方法であり、RAWは通常、生の音声データを含む未加工の形式　ただし、PCMデータをRAWと呼ぶこともあるが、その場合は通常、PCMデータが特定のヘッダーやメタデータなしに生データとして保存されている状態を指す</u>
 
 ## とりま MP3/WAV/RAW は再生できる事がわかった
 
@@ -837,7 +837,7 @@ Audacity に読み込ませる
 # さいごに
 ご清聴ありがとうございました
 
-++このページは SPRESENSE2023コンテストで作った部品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った部品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 
 <div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-audiodsp-jissen"></div></div>

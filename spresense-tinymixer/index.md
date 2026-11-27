@@ -12,8 +12,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-tinymixer/images/img01.jpg
 
 リナちゃん　X@chrmlinux03　です
 
-++このページは SPRESENSE2023コンテストで作った部品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った部品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 
 # はじめは SoundSerenity用の部品だった
 
@@ -75,7 +75,7 @@ through　で入力されちゃうとエフェクト掛けられないから
 取り込んで 👉[AudioDSPを絶妙にハックしたよ【実践編】](../spresense-audiodsp-jissen/) で出力させる(予定)
 
 # さいごに
-++このページは SPRESENSE2023コンテストで作った部品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った部品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 
 <div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-tinymixer"></div></div>

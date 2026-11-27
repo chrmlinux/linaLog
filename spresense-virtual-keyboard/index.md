@@ -15,8 +15,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-virtual-keyboard/images/img
 
 リナちゃん　X@chrmlinux03　です
 
-++このページは SPRESENSE2023コンテストで作った部品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った部品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 
 # 用意するもの
 | 部品名 | 販売先 | 価格 | 御提供品|
@@ -237,8 +237,8 @@ linux のコンソールみたいで良いですね(棒)
 
 押しにくい～💦
 
-++このページは SPRESENSE2023コンテストで作った部品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った部品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 {% endraw %}
 
 <div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-virtual-keyboard"></div></div>

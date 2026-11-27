@@ -14,8 +14,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-lorapager/images/img01.jpg
 
 リナちゃん　X@chrmlinux03　です
 
-++このページは SPRESENSE2023コンテストで作った製品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った製品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 
 # はじめは トランシーバーを作る気満々だった
 
@@ -295,7 +295,7 @@ PC に接続するとか用途は無限大ですね
 
 っていうか製品感満載٩(ˊᗜˋ*)و
 
-++このページは SPRESENSE2023コンテストで作った部品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った部品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 
 <div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-lorapager"></div></div>

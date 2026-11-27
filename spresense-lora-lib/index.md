@@ -14,8 +14,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-lora-lib/images/img01.png
 
 リナちゃん　X@chrmlinux03　です
 
-++このページは SPRESENSE2023コンテストで作った部品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った部品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 
 # 用意するもの
 LoRaモジュールは2個以上無いと動きません
@@ -316,7 +316,7 @@ LoRa は初めて使ったのですが
 
 ご清聴ありがとうございました
 
-++このページは SPRESENSE2023コンテストで作った部品を紹介するものです
-最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+<u>このページは SPRESENSE2023コンテストで作った部品を紹介するものです
+最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです</u>
 
 <div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="spresense-lora-lib"></div></div>

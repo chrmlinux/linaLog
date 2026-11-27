@@ -15,7 +15,7 @@ image: https://chrmlinux.github.io/linaLog/m5stack-setup1loop1/images/img01.jpg
 
 # え？ setup1()? loop1()?
 ![rp2040 sample](images/img02.jpg)
-++悲しい事に Arduino IDE ボードマネージャー > Rasberry Pi RP2040 Board > Rasberry Pi Pico を選択しないとこの機能は使え無い++
+<u>悲しい事に Arduino IDE ボードマネージャー > Rasberry Pi RP2040 Board > Rasberry Pi Pico を選択しないとこの機能は使え無い</u>
 
 # まぁ確かに 2個のcoreを持っているcpu だから
 初心者にはわかりやすいですよね
@@ -29,8 +29,8 @@ M5Stack / ESP32 の loop() は core1 で行われる
 通信等の処理は core0 で行われる
 たまぁーに core数が1個の cpu も存在するので裏で動かす core 自体を設定できるのが良い
 限りなくwdtに掛からないようにすべき
-++ウォッチドッグタイマ(WDT)とはマイコンのプログラムが暴走・停止していないかを監視するタイマ。MCUの動作を常に見張る番犬 
-wikipedia++
+<u>ウォッチドッグタイマ(WDT)とはマイコンのプログラムが暴走・停止していないかを監視するタイマ。MCUの動作を常に見張る番犬 
+wikipedia</u>
 
 # 実装開始
 ライブラリとして製作するわけですが　
@@ -38,8 +38,8 @@ wikipedia++
 ぢゃそこ class外に持って行って使って頂く事に
 名称は setupN/loopN でどうかしら？
 実際に使う場合は core の指定だけで良い感じで
-++ライブラリは、汎用性の高い複数のプログラムを再利用可能な形でひとまとまりにしたものである。ライブラリと呼ぶときは、それ単体ではプログラムとして動作させることはできない、つまり実行ファイルではない場合がある。ライブラリは他のプログラムに何らかの機能を提供するコードの集まりと言える。
-wikipedia++
+<u>ライブラリは、汎用性の高い複数のプログラムを再利用可能な形でひとまとまりにしたものである。ライブラリと呼ぶときは、それ単体ではプログラムとして動作させることはできない、つまり実行ファイルではない場合がある。ライブラリは他のプログラムに何らかの機能を提供するコードの集まりと言える。
+wikipedia</u>
 
 # 完成形
 
@@ -63,9 +63,9 @@ void loopN(void) {
   delay(1);
 }
 ```
-++**導入方法**
+<u>**導入方法**
 [github tinyCore](https://github.com/chrmlinux/tinyCore)
-もしくは ライブラリーマネージャーから 'tinyCore' で検索++
+もしくは ライブラリーマネージャーから 'tinyCore' で検索</u>
 
 # 動作例
 ![core0 tinyCore](images/img03.jpg)
