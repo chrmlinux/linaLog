@@ -35,13 +35,16 @@ image: https://chrmlinux.github.io/linaLog/spresense-module/images/img01.jpg
 
 # 素敵なユニバーサル基板を見つけた(6枚入り)
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1724703640366244033"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # ヤスリで2時間ずつ毎日コツコツと削り続けた
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1726088980998083046"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1726123312357741005"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # バッテリの共通化
@@ -54,7 +57,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-module/images/img01.jpg
 
 ![液晶用基板をずらして配置](images/img05.jpg)
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1728736876146897201"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [LCD液晶基板ili9341でタッチパネルを使うよっ](../spresense-ili9341-touch/) でお話した
 ディージーチェーンタイプの基板は既にありましたので
@@ -65,7 +69,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-module/images/img01.jpg
 
 # 動かしてみた
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1752501145480921134"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 応用例
 ## SoundSerenity(環境音が8Trackで美しく流れる箱)
@@ -95,7 +100,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-module/images/img01.jpg
 
 PCBも作らないとね
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1738379317598650480"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # さいごに
 

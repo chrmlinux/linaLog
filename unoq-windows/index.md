@@ -220,7 +220,8 @@ ssh -L 6080:localhost:6080 arduino@<LinaQのIPアドレス>
 これが LinaQ × ReactOS の極限構築レシピです。
 
 ## さいごに
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2025491817157034319"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 いつもご清聴ありがとうございます。
 エンジニアはロマンですね(謎
 

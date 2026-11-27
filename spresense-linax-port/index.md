@@ -104,8 +104,10 @@ image: https://chrmlinux.github.io/linaLog/spresense-linax-port/images/img01.jpg
 質問・ツッコミ歓迎です。
 
 ## 実機
-- （X 投稿の埋め込み）
-- （X 投稿の埋め込み）
+- <blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2098621417835442632"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- <blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2098291277456667017"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 関連コンテンツ
 ・[liveOS liveC](../livec/)

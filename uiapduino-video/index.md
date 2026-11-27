@@ -51,7 +51,8 @@ DMAのバス競合: DMAがVRAMからデータを読み出す際、もしCPUが�
 テレビ側はこれを「240p」というプログレッシブ信号として解釈し、ビシッと安定した静止画として表示してくれます。
 
 # 実機
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2036644410654622133"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # コード抜粋
 ```

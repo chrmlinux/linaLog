@@ -71,8 +71,10 @@ D7 はすでにタッチパネルで使っているので
 
 # 音が曲げられるなら光も曲げられるでそ
 
-（X 投稿の埋め込み）
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1605808647908777984"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1618899733556387841"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 システムの基本は「どうなってるか分からないけど実際に動いている感」
 
@@ -464,7 +466,8 @@ class SpreNeo {
 
 # 動かしてみる
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1752501828267454758"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 @
 
 # 応用例

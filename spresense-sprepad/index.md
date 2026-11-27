@@ -839,7 +839,8 @@ void loop() {
 }
 ```
 # 実機
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2014982705122041960"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # まとめ
 ・GS2200 は UART 接続

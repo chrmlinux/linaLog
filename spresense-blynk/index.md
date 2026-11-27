@@ -43,7 +43,8 @@ void loop(void) {
 ```
 # 感動の瞬間
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1562337259252514816"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 最後に
 

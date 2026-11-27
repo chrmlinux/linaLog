@@ -12,8 +12,10 @@ image: https://chrmlinux.github.io/linaLog/spresense-tv-cvbs/images/img01.png
 
 ## はじめに
 
-（X 投稿の埋め込み）
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2070466783199510853"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2069643089489309906"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 SPRESENSE で CVBS（コンポジットビデオ）信号を生成し、ブラウン管テレビやアナログモニターに映像を映すことに成功しました。
 
@@ -189,8 +191,10 @@ static const uint16_t font3x5[94] = {
 
 映像出力の画面キャプチャです。
 
-（X 投稿の埋め込み）
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2064546991183720490"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2065255004055961638"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 画面には以下が表示されています。
 
 ```

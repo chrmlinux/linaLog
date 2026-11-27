@@ -45,7 +45,8 @@ SPRESENSE 本体も2個必要です
 もっと使いやすく　他でも応用が利くものを٩(ˊᗜˋ*)و
 
 ## ん？recvで while(1) {} してる？
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1740311342979207591"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 どうやら LORA_NORMAL_MODE で待機している LoRa モジュールのライブラリの中で
 
@@ -306,7 +307,8 @@ LoRa は初めて使ったのですが
 
 秋月から着弾したのと
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1740660543340634535"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 全部で5枚ありますので
 

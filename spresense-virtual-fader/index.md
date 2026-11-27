@@ -27,7 +27,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-virtual-fader/images/img01.
 
 時には**無駄なこと**もさせます
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1738125444908827102"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # 用意するもの

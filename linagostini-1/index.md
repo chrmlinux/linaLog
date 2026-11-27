@@ -11,7 +11,8 @@ image: https://chrmlinux.github.io/linaLog/linagostini-1/images/img01.png
 # 設計思想 
 ダラス・1-Wireの哲学を、27円の石で再定義する
 かつて温度センサーの名機「DS18B20」などが採用した 1-Wireプロトコル。1本の信号線に数ダースのデバイスをぶら下げ、それぞれを 64-bit ROM ID で識別するという極めてエレガントな手法を、2026年の今、我々は 27円のRISC-Vマイコン（CH32V003） でアップデートする。
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2039218723383554545"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 3層の住所が拓く「64-bit」の宇宙
 I2Cの物理的な制約（127個のアドレス）を、3つのレイヤーで突破。
@@ -58,9 +59,12 @@ typedef struct __attribute__((packed)) {
 ## なぜやれるのか？
 これは単なる格安クラスタではない。
 汎用的な道具だけで、歴史への挑戦状を叩きつける――それが「リナゴスティーニ」の精神だ。
-（X 投稿の埋め込み）
-（X 投稿の埋め込み）
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2040705859895095799"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2041803606530388371"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2041693622228365487"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ==次号予告
 第2号：ハッシュの衝突を数学で殴る
 同じ住所を名乗ってしまったノードたちを、マスターがどのようにして「引き剥がし」、整列させるのか。そのアルゴリズムの深淵に迫る。==

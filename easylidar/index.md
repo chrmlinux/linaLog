@@ -52,7 +52,8 @@ VLシリーズは発売開始時期から随分使っていました、**黒い�
 2本のIO(DegitalWrite + AnalogWrite) を使えば1個のモータはPWM駆動できます。
 他の方々のライブラリは2本のIO(AnalogWrite x 2)を使っているようなのですが
 DCモータは所詮 **差動**で動くわけですから、ちょっと工夫をしてライブラリ化してあります。
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1559526096030531590"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 DCモータとはマブチモータ等の+(プラス)-(マイナス)で直接駆動し、反転はそれを逆にすることで実現可能。ただしDCモータは電流値が高く、マイコンから直接動かすことはできない。動かすためにはモータドライバなりの回路が必要。
 またDCモータはON/OFF や OFF/ON の動作時に激しい電流の変化があるため回路やデバイスに対して**スムーズ**な駆動が必要なために、**台形制御**と呼ばれる駆動方法が必要です。そこで**移動平均**によるDCモータ駆動も可能と考え今回のDCモータ駆動は下記の自前ライブラリを使用する事にしました。
 ![キャプションを入力できます](images/img08.jpg)
@@ -447,7 +448,8 @@ void movx(int pwr, int msec) {
 }
 ```
 ## 右手法アルゴリズムに関して
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1573148356477878273"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 すべてのセンサとDCモータが**無事**動けば車体は以下のようなアルゴリズムで壁を回避**できることになる**
 この走行はマッピングを行う為の走行であり **壁に沿って動けますよ** と言うデモ走行では無い事を伝えておく。
 ### 測距センサの概念図
@@ -486,7 +488,8 @@ void movx(int pwr, int msec) {
 壁に対して TOF64 は以下のような信号を排出する。
 単一のTOFと違い中心点から fov45°で扇状に出力されるデータなので排出されたデータに円弧処理を多用する事になる。
 ++上記オートキャリブレーションと6軸センサを使ってより正確な距離角度が算出出来たらなぁと考えています++
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1570972350027538434"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## 取得されたTOF64データの補完
 取得されたデータはあくまでも 8x8 のデータであるのでソフトウエアで 15 x 15 の倍分解能を持つデータに補完することとします。後述する右手法アルゴリズムで得られた障害物との接触情報が 8x8 では荒くより多くのデータにてMAP上に追記する必要があるからです。
 これで波々ならぬギザギザのデータが滑らかになるといいのですが....
@@ -556,9 +559,11 @@ Width 方向の 格納BIT を 8BIT(状態256) から 2BIT(状態4) に変更す�
 自己位置は Sub1 側で更新し area array 上に状態を常に上書きします。
 また **物体** の更新は移動先が更新されたタイミングで状態として上書きします。
 右手法アルゴリズムにて障害物との接触を検知し
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1573545628772487168"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 Local座標から Global座標への変換を行い area へと追記します
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1573547265440251904"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 自己位置推定
 TOF64の測距距離がカタログ上では400cm(4m)なのですがよく**ゴミ**を拾います。
@@ -569,11 +574,14 @@ TOF64の測距距離がカタログ上では400cm(4m)なのですがよく**ゴ�
 
 # 実機動作
 USB充電
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1573210861896093696"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 オートキャリブレーション
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1573251760390807553"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 右手法アルゴリズムによるSLAM
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1573253363197964288"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 TOF64 のFOVは45 °ですのでかなりな**壁**を用意しないと中々上手く **壁**を捉える事が出来ませんが
 なんとなく**壁**に対する自分の位置/角度は検出出来ていると思われます。

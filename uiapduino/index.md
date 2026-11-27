@@ -277,7 +277,8 @@ void loop() {
 }
 ```
 ## 実機
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2030201173966504169"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## まとめ
 書込み方が昔のマイコン...
 ボタンを押しながら電源投入 -> 1秒待つ -> ボタン離す -> 書込み開始

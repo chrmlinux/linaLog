@@ -21,7 +21,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-audiodsp-jissen/images/img0
 ### - Player0 と Player1 が Stero + Streo なんで 合計 4Track しか同時再生出来ないし💦 それの倍くらいの 8Track を再生したかった
 ### - 出来ればそれに　色と光によるエフェクトするための仕組みを付けたかった
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1536467975641104384"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 用意するもの
 
@@ -92,10 +93,12 @@ SPRESENSE を御提供頂きまず、最初に行うのはAudio機能ではな�
 
 全てはここから始まった٩(ˊᗜˋ*)و
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1557610395917221888"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ここまで可能になった٩(ˊᗜˋ*)و
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1735246091812217301"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 本家のライブラリが難解過ぎて涙
 一番簡単な 1個のmp3ファイルを鳴らす ino ファイルで
@@ -291,7 +294,8 @@ theAudio->startPlayer(AudioClass::Player0);
 myFile はなんだろう addrs をPrintしても同じ番地が返ってくるから スレッドセーフされた特殊な File myFile と考える
 
 # うーん Streo と 2track は違うのか
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1736968449912627557"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 んぢゃ完全に 別々な音声を 8Track分作成する必要があるね
 
@@ -427,7 +431,8 @@ loop で   theAudio->writeFrames(AudioClass::Player0, myFile); し続ける必�
 
 # 6144バイトの謎
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1740513417432371655"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 なぜ 6144バイトなのかやっとわかった
 んぢゃコード書いとく？

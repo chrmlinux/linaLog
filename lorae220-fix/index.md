@@ -36,7 +36,8 @@ loopが動いてないのはthreadが立ってないから💦
 ```
 
 # 実行結果
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1734441414652801409"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 最後に
 もっとすごいのはコンテストに向けて製作中なので今しばらくお待ち下さいませ

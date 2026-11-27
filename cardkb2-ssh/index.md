@@ -35,7 +35,8 @@ M5Stack の Unit CardKB2 は、42キーの小さなキーボードユニット�
 
 ## 完成形の仕様
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2122606757197512707"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - 起動すると端末モード（TERM）で立ち上がり、Grove 接続の SSD1306（128×64）に 21列×8行のターミナルを表示する
 - ローカルシェル（プロンプト `kb2> `）から `wifi` / `ssh` コマンドで接続する。設定は NVS に保存され、次回起動時は保存済み Wi-Fi へ自動接続（3秒カウントダウン、キー入力で取消）
 - キーボード拡張：Fn タップでワンショット Ctrl（Ctrl+C が打てる）、SYM はワンショット化（ダブルクリックでロック）、Fn+1=ESC、Fn+Z/X/C/D=矢印キー、Tab は Ctrl+I

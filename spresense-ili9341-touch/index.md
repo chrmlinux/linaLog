@@ -177,7 +177,8 @@ _h ... スプライトの高さ
 # タッチパネルの制御
 lovyanGFX でもディージーチェーン(CS共通)でタッチパネルが制御できるはずなんですが
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1723960619446223100"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![キャプションを入力できます](images/img05.png)
 
@@ -296,7 +297,8 @@ LovyanGFX
 
 とかある
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1729833253106843787"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 抵抗被膜式って言うのは薄い透明な被膜が接点の上に張ってあって
@@ -309,7 +311,8 @@ LovyanGFX
 
 今回のは病院の待合室で組んだよっ
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1729746161446084966"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
@@ -327,7 +330,8 @@ LovyanGFX
 ![キャプションを入力できます](images/img09.jpg)
 
 # 回る目玉
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1752239749870522823"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
 #include <spreTools.hpp>
 #include <spreGraphics.hpp>

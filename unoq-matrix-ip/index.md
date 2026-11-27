@@ -361,7 +361,8 @@ sudo chmod +x /etc/rc.local
 それ以外の文字は無視されます。フォントを追加したい場合は `font3x5` テーブルと `charIndex()` を拡張してください。
 
 ## 6. 実機
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2029487555964760395"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## 7. 最後に
 もうこれ..デフォルトで組み込んでおいて欲しいにょ
 

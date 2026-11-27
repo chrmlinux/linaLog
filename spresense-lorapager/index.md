@@ -31,7 +31,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-lorapager/images/img01.jpg
 
 さらにこんなメッセージが
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1741381312282526150"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 用意するもの
 
@@ -47,7 +48,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-lorapager/images/img01.jpg
 これを使えば採寸しなくて良いのでは？
 
 ※って言うか 元旦💦
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1741681939118248245"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # ケース作成要件
@@ -276,7 +278,8 @@ void ledCtrl(void) {
 
 # 動かしてみた
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1752503198169063919"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 残務と今後の考察
 

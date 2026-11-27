@@ -16,7 +16,8 @@ image: https://chrmlinux.github.io/linaLog/spresense-camera-lcd/images/img01.png
 
 Spresense の カメラで撮った写真をパラパラ漫画で動画に出来たよっ
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1754795753145511939"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 使用部品
 |  部品 |  御提供品  |

@@ -973,7 +973,8 @@ void app_factory(void *arg)
 ## 結果
 
 書き込んで実機で確認し、Ctrl+C が効くようになりました。LED が黄色に光っている間に英字を押すだけです。ターミナルでコマンドを中断できるようになり、このキーボードが実用になりました。
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2122233788948500630"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## おわりに
 
@@ -981,7 +982,8 @@ void app_factory(void *arg)
 
 ## 次回
 FWだけで sshClient にしてみた🚬
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2122606757197512707"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 本記事の内容はファームウェアを書き換えるものです。試される場合は、あくまでも自己責任でお願いします
 

@@ -261,7 +261,8 @@ DISPLAY=:10.0 ./tiny386 config.ini
 いつもご清聴ありがとうございます
 え？qemu で良くないの？速度もそっちの方が速いんでしょ？
 いいんです、エンジニアはロマンですからっ
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/twitter/status/2027991160053239978"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 参考
 

@@ -130,7 +130,8 @@ PD1 (Pin8) を外部デバイスに使う場合、書き込み時は一時的に
 
 ---
 ## 実機
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2055065542084686291"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## まとめ
 

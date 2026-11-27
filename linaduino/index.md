@@ -13,6 +13,7 @@ image: https://chrmlinux.github.io/linaLog/linaduino/images/img01.png
 - [USB2Monitor](../linaduino-usbmonitor/)
 - [USB2Grove](../linaduino-usbgrove/)
 # 実機
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2052252368906154196"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="like-wrap"><div data-lyket-type="like" data-lyket-template="twitter" data-lyket-namespace="linalog" data-lyket-color-icon="#b5e853" data-lyket-color-primary="#b5e853" data-lyket-color-text="#eaeaea" data-lyket-color-secondary="#2b2b2b" data-lyket-id="linaduino"></div></div>

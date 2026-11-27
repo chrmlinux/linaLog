@@ -36,7 +36,8 @@ NTSCビデオ信号は、本質的には「タイミングが決まったアナ�
 あらゆるハードウェアで動かされてきた伝説のデモ映像。
 ついにオーディオDACのイヤホンジャックでも動きました。
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2067099273712582662"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## ポイント
 
 - ビデオ出力ハードウェア：なし

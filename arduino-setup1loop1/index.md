@@ -65,7 +65,8 @@ void loopN(void) {
 # Arduino leonard(ATMEGA32U4)では動くの？
 動きましたぁ
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1540130457383477249"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 最後に
 Arduino IDE を使い Arduinoで開発されている方々

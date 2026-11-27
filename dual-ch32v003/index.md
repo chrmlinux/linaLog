@@ -139,7 +139,8 @@ extern "C" {
 
 ---
 
-（X 投稿の埋め込み）
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2038994739018506272"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 この 92 Byte というサイズ感と、dual CH32V003 での動作確認、どれも CH32 RTA として面白いと思います。elchika の皆さんはどう思いますか？ぜひコメントお待ちしています！
 
