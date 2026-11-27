@@ -111,7 +111,8 @@ extern "C" {
 
 この dual 構成は、センサー用途や小型 IoT デバイスで便利そうです。
 
-@[X](https://x.com/chrmlinux03/status/2037786990964625563)
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2037786990964625563"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ![HSI-24MHz](images/img02.png)
 ![HSI-48MHz](images/img03.png)
 ---

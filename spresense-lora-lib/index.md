@@ -25,7 +25,8 @@ SPRESENSE 本体も2個必要です
 
 # 念願のLoRaボードが到着した
 
-@[Twitter](https://twitter.com/chrmlinux03/status/1733692484998537221?s=20)
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1733692484998537221"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 到着した LoRa 基板に発売元のライブラリを入れて見るがさっぱり動きません
 

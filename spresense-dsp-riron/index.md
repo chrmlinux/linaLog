@@ -52,7 +52,8 @@ simpleFIFOがエラーを返してくれるのね
 上のloopのDSPに送るタイミングで間に映像を流せば
 多分なるよね～って作ったのがこれ
 simpleFIFO の現在のポインタの位置とか判ればもうちょっと同期出来るんですけどね
-[音出ます](https://x.com/chrmlinux03/status/1735246091812217301?s=20)
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1735246091812217301"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # さいごに
 完全なるソースの公開は来年までお待ちください

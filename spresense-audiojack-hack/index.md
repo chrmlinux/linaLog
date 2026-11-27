@@ -405,5 +405,8 @@ font3x5 = [
 ## 参考リンク
 
 - Sony Spresense player_hires.ino: https://developer.spresense.sony-semicon.com/development-guides/?lang=en&page=arduino_tutorials#_play_high_resolution_audio
-- CH32V003版（Generation 1）のツイート: https://x.com/chrmlinux03/status/2047242788916621336
+- CH32V003版（Generation 1）のツイート（下に埋め込み）
 - 元プロジェクトページ: https://hackaday.io/project/205934-spresense-audio-jack-as-ntsc-video-output
+
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/2047242788916621336"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -17,7 +17,8 @@ Spresenseの最大にして最強の機能として、MP3プレイヤーが簡�
 
 サンプルにはない機能として、SDカード内にあるすべてのMP3を再生する機能があります  
 大丈夫です、すでに作ってあります  
-☞ [X](https://x.com/chrmlinux03/status/1849753130021654745)
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1849753130021654745"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # リナちゃんライブラリ
 ![キャプションを入力できます](images/img02.png)

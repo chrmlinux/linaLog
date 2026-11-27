@@ -41,7 +41,8 @@ WS2812B の文献を漁って行くと困った記述が
 
 本基板の5V には繋がないでね💦
 
-@[Twitter](https://twitter.com/chrmlinux03/status/1735198681090097539?s=20)
+<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/chrmlinux03/status/1735198681090097539"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # ぢゃ4個くらいで
 沢山繋ぐとそれは電力を食います
