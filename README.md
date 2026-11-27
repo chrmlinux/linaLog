@@ -1,5 +1,9 @@
 # linaLog
 
+<p align="center">
+  <img src="assets/rina-chan.png" alt="リナちゃん" width="360">
+</p>
+
 製作記事置き場です。Markdown のまま読めます。
 
 Project write-ups, in Markdown.
