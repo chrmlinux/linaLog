@@ -166,3 +166,5 @@ ros2 topic echo /chatter
 いつもご清聴ありがとうございます。
 朝活の時間で無事完了しました。
 ![rviz2](images/img05.png)
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="unoq-ros2"></div></div>

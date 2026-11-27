@@ -55,3 +55,5 @@ Sleeve (GND) ---------- RCA Shield (GND)
 Spresense の Hi-Res AudioPlayer を用いた再生だけでなく、本プロジェクトで生成される 192 kHz および 384 kHz のすべての NTSC RAW データに共通して使用でき、再生プラットフォームに依存せずコンポジット映像信号へ変換することができる。
 
 詳細は ☞ [hackaday.io](https://hackaday.io/project/205934-spresense-audio-jack-as-ntsc-video-output)
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="usbdac-cvbs-small"></div></div>

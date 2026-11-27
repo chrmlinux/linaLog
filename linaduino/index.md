@@ -14,3 +14,5 @@ image: https://chrmlinux.github.io/linaLog/linaduino/images/img01.png
 - [USB2Grove](../linaduino-usbgrove/)
 # 実機
 （X 投稿の埋め込み）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="linaduino"></div></div>

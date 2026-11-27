@@ -540,3 +540,5 @@ function expandCode(event) {
 ・[liveOS porting m5](../spresense-linax-port/) ←いまここ
 
 *このプロジェクトはArduinoフレームワーク上で開発しています。ボードはVicharak Shrike-Lite (RP2040) / Sony Spresense / cyd / m5tab5 / m5sticks3 5機種に対応。*
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="livec"></div></div>

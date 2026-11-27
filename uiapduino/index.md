@@ -284,3 +284,5 @@ void loop() {
 
 いつもご清聴ありがとうございます
 ボタン押しすぎて指が痛い(謎
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="uiapduino"></div></div>

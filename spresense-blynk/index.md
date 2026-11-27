@@ -54,3 +54,5 @@ void loop(void) {
 
 
 @chrmlinux03
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-blynk"></div></div>

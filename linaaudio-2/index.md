@@ -172,3 +172,5 @@ PWM 出力にはノイズが含まれるため、LPF を追加すると音質が
 | スピーカー(+) | 100Ω 経由で P1.5 に接続 |
 | 0.1uF | スピーカー(+) のノードから GND へ |
 | GND | 0.1uF の接続先 |
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="linaaudio-2"></div></div>

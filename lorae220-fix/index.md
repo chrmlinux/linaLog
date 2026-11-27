@@ -42,3 +42,5 @@ loopが動いてないのはthreadが立ってないから💦
 もっとすごいのはコンテストに向けて製作中なので今しばらくお待ち下さいませ
 よろしくお願い申し上げます
 ※ごめんちょっと直した٩(ˊᗜˋ*)و
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="lorae220-fix"></div></div>

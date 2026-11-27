@@ -19,3 +19,5 @@ image: https://chrmlinux.github.io/linaLog/linaduino-usbmonitor/images/img01.jpg
 
 （X 投稿の埋め込み）
 （X 投稿の埋め込み）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="linaduino-usbmonitor"></div></div>

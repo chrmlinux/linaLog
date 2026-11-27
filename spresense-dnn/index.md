@@ -877,4 +877,4 @@ Level 4: LED0, 1, 2, 3 全点灯 (Danger)
 ご清聴ありがとうございました
 相変わらず長かったです(モデルリングが)
 
-
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-dnn"></div></div>

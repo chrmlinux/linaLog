@@ -240,4 +240,4 @@ void CamCB(CamImage img) {}
 これでやっとオブジェクトトラッキングが出来るようになる
 ご清聴ありがとうございましたっ
 
-
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-camera-lcd"></div></div>

@@ -101,3 +101,5 @@ void loop() {
 
 -  [Sony Semiconductor Solutions](https://www.sony-semicon.com/) [Spresense](https://developer.sony.com/ja/spresense)
 - [Lovyan03](https://x.com/lovyan03)  [LovyanGFX](https://github.com/lovyan03/LovyanGFX)
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-multi-lcd"></div></div>

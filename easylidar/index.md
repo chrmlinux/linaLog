@@ -609,3 +609,5 @@ Main/Sub側の制約が激しすぎて正しい使い方ではない方法で組
 
 
 ご清聴ありがとうございました。
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="easylidar"></div></div>

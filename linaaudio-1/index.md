@@ -493,3 +493,5 @@ Low-Speed USB デバイスを USB-Audio Class として認識させるのはお�
 - USB2Audio 音出し編 (次回)
 
 いつもご清聴ありがとうございます
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="linaaudio-1"></div></div>

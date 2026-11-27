@@ -56,3 +56,5 @@ HiresAudioPlayerから映像が出ます。
 - みさきフォント 8×12（日本語文字描画）
 
 詳細は 👉[HackDay.io](https://hackaday.io/project/205934-spresense-audio-jack-as-ntsc-video-output)　
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="usbdac-ntsc"></div></div>

@@ -272,3 +272,5 @@ cc /tmp/a.c
 - メモリ保護はありません（MMU が無いため、分離はウィンドウの入れ替えによる論理的なものです）
 - 同時に存在できるユーザプロセスは 2 つまでです
 - パイプは未実装です（リダイレクトは echo の書き込みのみ）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="linax-uno"></div></div>

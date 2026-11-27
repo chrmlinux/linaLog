@@ -9,3 +9,5 @@ image: https://chrmlinux.github.io/linaLog/usb-a-probability/images/img01.jpg
 ![](images/img01.jpg)
 
 （X 投稿の埋め込み）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="usb-a-probability"></div></div>

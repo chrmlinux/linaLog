@@ -102,3 +102,5 @@ ssh arduino@UNO-QのIP
 4GB RAM/32GB eMMC推奨です
 ↓更新継続ちぅ
 （X 投稿の埋め込み）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="unoq-setup"></div></div>

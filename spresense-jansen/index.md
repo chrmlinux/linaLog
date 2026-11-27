@@ -783,3 +783,5 @@ void setupSensors() {
 お疲れさまでございました
 よりよい テオ・ヤンセンが出来ますように
 （X 投稿の埋め込み）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-jansen"></div></div>

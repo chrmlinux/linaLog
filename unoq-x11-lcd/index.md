@@ -172,3 +172,5 @@ if __name__ == '__main__':
 
 # まとめ
 （X 投稿の埋め込み）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="unoq-x11-lcd"></div></div>

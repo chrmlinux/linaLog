@@ -146,3 +146,5 @@ extern "C" {
 ---
 
 `#CH32V003` `#SOP8` `#Arduino` `#LTO` `#極小ファームウェア` `#dualCH32` `#CH32RTA`
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="dual-ch32v003"></div></div>

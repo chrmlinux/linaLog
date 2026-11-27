@@ -193,3 +193,5 @@ void loop() {
 ## 最後に
 ご清聴ありがとうございました
 （X 投稿の埋め込み）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="unoq-qrb-stm32"></div></div>

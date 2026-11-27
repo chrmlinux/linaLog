@@ -226,3 +226,5 @@ void loop() {
 
 ++このページは SPRESENSE2023コンテストで作った製品を紹介するものです
 最初に [開発まとめ](../spresense-2023-matome/) をお読みいただければ幸いです++
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-soundserenity"></div></div>

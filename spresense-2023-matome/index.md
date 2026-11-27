@@ -217,3 +217,5 @@ elchika内部のサーバにアップしてある文書に関しては改変履�
 
   
 2024年01月某日 リナちゃん　X@chrmlinux03
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-2023-matome"></div></div>

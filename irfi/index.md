@@ -9,3 +9,5 @@ image: https://chrmlinux.github.io/linaLog/irfi/images/img01.png
 ![](images/img01.png)
 
 （X 投稿の埋め込み）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="irfi"></div></div>

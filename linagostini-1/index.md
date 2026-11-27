@@ -65,3 +65,4 @@ typedef struct __attribute__((packed)) {
 第2号：ハッシュの衝突を数学で殴る
 同じ住所を名乗ってしまったノードたちを、マスターがどのようにして「引き剥がし」、整列させるのか。そのアルゴリズムの深淵に迫る。==
 
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="linagostini-1"></div></div>

@@ -330,3 +330,5 @@ slaveAdrs = *(volatile uint8_t*)0x1FFFF804UL;
 
 （X 投稿の埋め込み）
 （X 投稿の埋め込み）
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="ch32v003-cardputer-lcd"></div></div>

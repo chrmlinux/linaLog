@@ -223,3 +223,5 @@ ssh -L 6080:localhost:6080 arduino@<LinaQのIPアドレス>
 （X 投稿の埋め込み）
 いつもご清聴ありがとうございます。
 エンジニアはロマンですね(謎
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="unoq-windows"></div></div>

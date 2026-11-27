@@ -122,3 +122,5 @@ SpresenseのAudioライブラリを使用することで、MP3の再生、停止
 お疲れさまでございました
 3Dプリンタ持ってるのであれば是非一度体験頂きたく思います
 よろしくお願い申し上げます
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-matrix-speaker"></div></div>

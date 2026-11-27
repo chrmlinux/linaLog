@@ -655,3 +655,5 @@ CYD の P1 コネクタ（基板の TX/RX ヘッダ）を使います。両側�
 - 生成元：東雲フォント 0.9.11（/efont/、パブリックドメイン）の 12 ドット版。Unicode→JIS X 0208 の変換は JIS X 0208 表の逆引きによります。
 
 ---
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="tinyx11-cyd"></div></div>

@@ -365,4 +365,4 @@ sudo chmod +x /etc/rc.local
 ## 7. 最後に
 もうこれ..デフォルトで組み込んでおいて欲しいにょ
 
-
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="unoq-matrix-ip"></div></div>

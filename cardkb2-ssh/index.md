@@ -3958,3 +3958,5 @@ tmt_reset(TMT *vt)
     notify(vt, true, true);
 }
 ```
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="cardkb2-ssh"></div></div>

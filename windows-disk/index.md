@@ -220,3 +220,5 @@ function expandCode(event) {
 - **設定で移せるものは、設定で移す。** WSL の `--move` や `arduino-cli.yaml` のように、正規の方法があるものはそちらが確実です。
 - **ジャンクションは「経路を変えられないソフト」への手段。** 通常の Windows アプリやゲームには有効ですが、リンクの辿り方に癖のあるツール（今回の arduino-cli）では壊れます。
 - **移動は「コピー → 退避 → 切替 → 検証 → 退避を削除」の順で。** いきなり元を消さないことが、切り分けの余地を残します。
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="windows-disk"></div></div>

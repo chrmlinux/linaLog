@@ -161,3 +161,5 @@ Spresenseには実際にアンプが内蔵されており、スピーカーも�
 
 今年で3回目となるSpresenseコンテスト、今回も頑張ります
 目指せ三連覇！[[2022]](../easylidar/)[[2023]](../spresense-soundserenity/)
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-mp3-cub"></div></div>

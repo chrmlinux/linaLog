@@ -848,3 +848,5 @@ void loop() {
 ・最初は簡単に進んだが、GNSS連結から大変でした
 
 ご清聴ありがとうございました
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-sprepad"></div></div>

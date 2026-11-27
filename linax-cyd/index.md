@@ -104,3 +104,5 @@ uname
 microSD は、romfs イメージをカードの先頭から raw で書き込んだものを挿しておくと、起動時に /etc/fstab（`mtd:sdcard /sd romfs defaults 0 0`）で /sd へ自動マウントされます。カードがない場合はマウントを数回試して失敗表示を出し、そのままシェルに入ります。
 
 シェルには cd や行編集はありません。コマンド入力後にプロンプトが 2 回表示されることがありますが、CR+LF の扱いによる表示上のもので、そのままにしています。
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="linax-cyd"></div></div>

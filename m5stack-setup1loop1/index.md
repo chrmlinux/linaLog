@@ -76,3 +76,4 @@ Arduino IDE を使い M5StackやESP32でLチカをなさっている方々
 是非こちらをお使いくださいませっ
 よろしくお願い申し上げます
 
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="m5stack-setup1loop1"></div></div>

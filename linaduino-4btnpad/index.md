@@ -130,3 +130,5 @@ void usb_handle_user_in_request(
 ## さいごに
 うわ～　ちょっとハマりどころ満載だけど
 USB機器が作れる #linaDuinoは凄いね
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="linaduino-4btnpad"></div></div>

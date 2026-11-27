@@ -143,3 +143,5 @@ if __name__ == "__main__":
     else:
         print("No input provided.")
 ```
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-audiohack-kanji"></div></div>

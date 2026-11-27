@@ -97,3 +97,5 @@ DMAのバス競合: DMAがVRAMからデータを読み出す際、もしCPUが�
 # 次回予告
 左右のげじげじを止めたいなぁと
 i2c で通信出来れば夢のvideoコンバータに....(夢
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="uiapduino-video"></div></div>

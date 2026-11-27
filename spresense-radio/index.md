@@ -854,3 +854,5 @@ void loop() {
 ![苦労の跡](images/img16.jpg)
 ![苦労の跡](images/img17.jpg)
 今後も**使えるモジュール**を目指して参ります
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-radio"></div></div>

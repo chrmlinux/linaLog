@@ -192,3 +192,4 @@ Project write-ups, in Markdown.
   showPage();
 })();
 </script>
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="top"></div></div>

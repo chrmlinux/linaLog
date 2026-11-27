@@ -105,3 +105,5 @@ elchika 時代に罫線（┌─┐│）で描いた図が29ブロックあり�
 71記事すべてが linaLog に移り、画像303点もローカル化が完了しました。記事は Markdown のまま Git で管理でき、表も図もコードコピーも思ったとおりに使えます。引っ越しは一度きりの作業ですが、その後の書きやすさは毎日効いてきます。
 
 ブログ: https://chrmlinux.github.io/linaLog/
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="blog-migration"></div></div>

@@ -273,3 +273,5 @@ DISPLAY=:10.0 ./tiny386 config.ini
 
 *2026年3月 Arduino Uno Q (LinaQ) にて動作確認*  
 *世界初 tiny386 on Arduino Uno Q *
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="unoq-freedos"></div></div>

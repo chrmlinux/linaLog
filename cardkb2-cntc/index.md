@@ -984,3 +984,5 @@ FWだけで sshClient にしてみた🚬
 （X 投稿の埋め込み）
 
 本記事の内容はファームウェアを書き換えるものです。試される場合は、あくまでも自己責任でお願いします
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="cardkb2-cntc"></div></div>

@@ -523,3 +523,5 @@ FEPにするなら、必要になるのは次の3つだと考えています。
 - そのぶん癖や制限も残っているので、それは正直に書いた
 
 最後まで読んでいただき、ありがとうございました。
+
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-nihongo"></div></div>

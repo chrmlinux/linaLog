@@ -219,3 +219,4 @@ SPRESENSE の強みである**マルチコア・高精度タイマー・ARM Cort
 
 ---
 
+<div class="like-wrap"><div data-lyket-type="like" data-lyket-namespace="linalog" data-lyket-id="spresense-tv-cvbs"></div></div>
