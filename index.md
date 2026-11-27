@@ -40,9 +40,9 @@ Project write-ups, in Markdown.
 <p><button id="sortBtn" type="button">古い順に並べ替える</button></p>
 
 <ul id="articleList">
-  <li data-date="2026-11-26 20:17">2026-11-26 20:17 ― <a href="linax-uno/">linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS</a></li>
-  <li data-date="2026-11-23 13:54">2026-11-23 13:54 ― <a href="windows-disk/">[Junction] Windows の C ドライブを空ける話 [目から鱗]</a></li>
-  <li data-date="2026-11-21 21:41">2026-11-21 21:41 ― <a href="linax-cyd/">LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11</a></li>
+  <li data-date="2026-11-26 20:17"><img class="thumb" src="assets/rina-chan.png" alt="">2026-11-26 20:17 ― <a href="linax-uno/">linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS</a></li>
+  <li data-date="2026-11-23 13:54"><img class="thumb" src="assets/rina-chan.png" alt="">2026-11-23 13:54 ― <a href="windows-disk/">[Junction] Windows の C ドライブを空ける話 [目から鱗]</a></li>
+  <li data-date="2026-11-21 21:41"><img class="thumb" src="assets/rina-chan.png" alt="">2026-11-21 21:41 ― <a href="linax-cyd/">LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11</a></li>
   <li data-date="2026-11-19 10:46"><img class="thumb" src="tinyx11-cyd/images/img01.jpg" alt="">2026-11-19 10:46 ― <a href="tinyx11-cyd/">[cyd] $7の液晶付きマイコンに x11 を載せてみた[3分ハッキング別冊]</a></li>
   <li data-date="2026-09-08 19:25"><img class="thumb" src="spresense-linax/images/img01.jpg" alt="">2026-09-08 19:25 ― <a href="spresense-linax/">[#SPRESENSE 2026]最終奥義OS作ってみたにょ[linaX]</a></li>
   <li data-date="2026-08-31 16:56"><img class="thumb" src="liveb-livep/images/img01.jpg" alt="">2026-08-31 16:56 ― <a href="liveb-livep/">[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveB/LiveP編]</a></li>

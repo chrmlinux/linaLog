@@ -10,9 +10,9 @@ Project write-ups, in Markdown.
 
 ## 記事 / Articles
 
-- 2026-11-26 20:17 ― [linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS](linax-uno/index.md)
-- 2026-11-23 13:54 ― [[Junction] Windows の C ドライブを空ける話 [目から鱗]](windows-disk/index.md)
-- 2026-11-21 21:41 ― [LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11](linax-cyd/index.md)
+- 2026-11-26 20:17 ― <img src="assets/rina-chan.png" width="78"> [linaX(uno) ― Arduino Uno（ATmega328P）に載せた Unix 系 OS](linax-uno/index.md)
+- 2026-11-23 13:54 ― <img src="assets/rina-chan.png" width="78"> [[Junction] Windows の C ドライブを空ける話 [目から鱗]](windows-disk/index.md)
+- 2026-11-21 21:41 ― <img src="assets/rina-chan.png" width="78"> [LinaX(cyd) ― PSRAM なしの ESP32（CYD）に載せた Linux 6.11](linax-cyd/index.md)
 - 2026-11-19 10:46 ― <img src="tinyx11-cyd/images/img01.jpg" width="78"> [[cyd] $7の液晶付きマイコンに x11 を載せてみた[3分ハッキング別冊]](tinyx11-cyd/index.md)
 - 2026-09-08 19:25 ― <img src="spresense-linax/images/img01.jpg" width="78"> [[#SPRESENSE 2026]最終奥義OS作ってみたにょ[linaX]](spresense-linax/index.md)
 - 2026-08-31 16:56 ― <img src="liveb-livep/images/img01.jpg" width="78"> [[#SPRESENSE 2026]Cインタプリタ(VM)を作ったにょ[LiveB/LiveP編]](liveb-livep/index.md)

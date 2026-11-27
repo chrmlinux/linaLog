@@ -2,6 +2,8 @@
 
 2026年11月21日 21:41
 
+<p><img src="../assets/rina-chan.png" alt="リナちゃん" width="240"></p>
+
 ## 概要
 
 LinaX(cyd) は、PSRAM なしの初代 ESP32 ボード CYD（Xtensa LX6、内蔵 DRAM 320 KB、フラッシュ 4 MB）に載せた Linux 6.11.0 です。シリアルコンソールから対話シェル `linax>` が使え、microSD カードを fstab で自動マウントしてファイルが読めます。
