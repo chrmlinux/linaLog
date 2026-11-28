@@ -12,6 +12,7 @@ Project write-ups, in Markdown.
 
 X: [@chrmlinux03](https://x.com/chrmlinux03)
 
+- 2026-11-28 09:29 ― <img src="xiao-rtc-timestamp/images/img01.png" width="78"> [RP2040 の RTC を ino のタイムスタンプで合わせた件](xiao-rtc-timestamp/index.md)
 - 2026-11-27 21:10 ― <img src="assets/rina-chan.png" width="78"> [linaLog に検索とタグを付けた件](linalog-search-tags/index.md)
 - 2026-11-27 15:31 ― <img src="assets/rina-chan.png" width="78"> [linaLog にアクセスカウンターと「いいね」を付けた件](linalog-counter-like/index.md)
 - 2026-11-27 13:44 ― <img src="assets/rina-chan.png" width="78"> [elchika から GitHub Pages へ、ブログ71記事を引っ越した手順](blog-migration/index.md)
